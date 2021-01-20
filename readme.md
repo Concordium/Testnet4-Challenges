@@ -59,7 +59,7 @@ See [Submission Process](/submission-process.md).
 
 ## Bugs and Improvements
 
-If you encounter a problem, please check under [Status](status.md), already [Reported Issues and FAQs](/projects/1) and [Troubleshooting](https://developers.concordium.com/en/testnet4/testnet/see-also/troubleshooting.html).
+If you encounter a problem, please check under [Status](status.md), already [Reported Issues and FAQs](http://github.com/Concordium/Testnet4-Challenges/projects/1) and [Troubleshooting](https://developers.concordium.com/en/testnet4/testnet/see-also/troubleshooting.html).
 
 If you cannot find an answer, ask on [Telegram](https://t.me/concordium_official) or [Discord](https://discord.com/invite/xWmQ5tp). If unresolved, you can submit a new issue under [Issues](/issues) and provide a short description, steps to reproduce, platform and OS, logs, expected result and actual result.
 
