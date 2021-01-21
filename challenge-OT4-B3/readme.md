@@ -4,6 +4,7 @@
 
 ##
 
+:warning: If you choose to do this challenge, you cannot also do B2 or B4.
 
 ## Mission
 
@@ -31,7 +32,7 @@
 
 - Verify that your stake limit cannot be transferred.
 
-- Check your account regularly for baker rewards. 
+- Check your account regularly for baker rewards.
   - Note that with a 2000 GTU stake you might receive one baker reward per week but it is not guaranteed. Don't panic, receiving a baker reward is not mandatory for a successful submission.
   - If you have received a baker reward, verify that it is added to the staked amount or to the amount at disposal, depending on the restake earnings status of your baker account.
 
@@ -45,7 +46,7 @@
 
 - Verify that your stake limit cannot be transferred.
 
-- Check your account regularly for baker rewards. 
+- Check your account regularly for baker rewards.
   - Note that with a 2000 GTU stake you might receive one baker reward per week but it is not guaranteed. Don't panic, receiving a baker reward is not mandatory for a successful submission.
   - If you have received a baker reward, verify that it is added to the staked amount or to the amount at disposal, depending on the restake earnings status of your baker account.
 

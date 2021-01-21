@@ -4,6 +4,7 @@
 
 ##
 
+:warning: If you choose to do this challenge, you cannot also do B2 or B3.
 
 ## Mission
 
