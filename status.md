@@ -26,3 +26,5 @@ The purpose of this document is to provide real-time information when it comes t
 * [Concordium Troubleshooting](https://developers.concordium.com/en/testnet4/testnet/see-also/troubleshooting.html)
 
 ## Past Updates
+
+n/a
