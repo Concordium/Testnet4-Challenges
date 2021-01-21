@@ -28,7 +28,7 @@ Each challenge has its own subfolder under `challenge-OT4-*` with a `readme.md` 
 | OT4-B3    | [Register and deregister as baker.](challenge-OT4-B3) | 2000 GTU | 250 | 20-01-2021 23:00 PT | 03-03-2021 23:00 PT |
 | OT4-B4    | [Make baker updates.](challenge-OT4-B4)               | 3000 GTU | 250 | 20-01-2021 23:00 PT | 03-03-2021 23:00 PT |
 
-Each of the baker challenge OT4-B* takes 4 weeks to complete. OT4-B1 can be run as a stand-alone challenge or concurrently with either challenge OT4-B2, OT-B3, or OT4-B4. OT4-B2, OT4-B3, and OT4-B4 **cannot** be combined with each other.
+Each of the baker challenge OT4-B* takes 4 weeks to complete. OT4-B1 can be run as a stand-alone challenge or concurrently with <ins>**one of**</ins> either OT4-B2, OT-B3, or OT4-B4. OT4-B2, OT4-B3, and OT4-B4 **cannot** be combined with each other.
 
 The challenges intentionally only provide a minimum description of the tasks. For detailed step-to-step guides and troubleshooting, we expect contributors to consult [Documentation and Help](#documentation-and-help) or our [Discord channel](https://discord.com/invite/xWmQ5tp).
 
