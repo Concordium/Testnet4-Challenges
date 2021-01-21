@@ -22,7 +22,7 @@ The purpose of this document is to provide real-time information when it comes t
 
 ### FAQs and Troubleshooting
 
-* [Reported Issues and FAQs](https://github.com/Concordium/testnet-challenges-draft/projects/1)
+* [Reported Issues and FAQs](https://github.com/Concordium/Testnet4-Challenges/projects/1)
 * [Concordium Troubleshooting](https://developers.concordium.com/en/testnet4/testnet/see-also/troubleshooting.html)
 
 ## Past Updates
