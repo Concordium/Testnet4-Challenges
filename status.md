@@ -8,9 +8,11 @@ The purpose of this document is to provide real-time information when it comes t
 
 ### ✅ Test Network
 
-* No known issues
-* No limitations
-* No scheduled downtime
+* [Jan 27 10:45 CET](https://discord.com/channels/667378330923696158/687313907500449849/803924019606716457) We are running some load experiments on the chain right now. Network delays and long finalization times as well as unresponsive network dashboards and wallets are to be expected.
+
+[//]: # (* No known issues)
+[//]: # (* No limitations)
+[//]: # (* No scheduled downtime)
 
 ### ✅ Identity Issuer Notabene
 
@@ -18,7 +20,9 @@ The purpose of this document is to provide real-time information when it comes t
 
 ### ✅ Challenges & Supporting Tooling
 
-* No known issues
+* [Jan 27 10:45 CET](https://discord.com/channels/667378330923696158/687313907500449849/803924019606716457) We are running some load experiments on the chain right now. Network delays and long finalization times as well as unresponsive network dashboards and wallets are to be expected.
+
+[//]: # (* No known issues)
 
 ### FAQs and Troubleshooting
 
