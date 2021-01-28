@@ -3,7 +3,7 @@
 
 #You need to add below to crontab. it will exec every 10 minutes 7 hours 7 days. after 7 days delete from cron
 #jsut adjust your times. not recomended to conflict with T2
-#*/5 12,14,16,18,20,22,23 * * * /home/conc/Documents/concordium-software/T3.sh
+#*/10 12,14,16,18,20,22,23 * * * /home/conc/Documents/concordium-software/T3.sh
 
 
 
