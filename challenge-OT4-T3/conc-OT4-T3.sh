@@ -15,11 +15,6 @@ pass="123456\n"
 pass2="123456\n"
 
 cd /home/conc/Documents/concordium-software
-#if you see "send: spawn id exp4 not open" = # first date variable and delete second one"
-#Eger "send: spawn id exp4 not open" hatasi goruyorsaniz ilk date in basina # koyun ikinciyi acin.
-
-date=`date +%d%m%y`
-date2=`date`
 
 echo "RUN $i"
 
