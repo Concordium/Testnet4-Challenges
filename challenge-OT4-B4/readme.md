@@ -4,12 +4,13 @@
 
 ##
 
+:warning: If you choose to do this challenge, you cannot also do B2 or B3.
 
 ## Mission
 
 **1) Setup a node**
 
-- Run a node for a month (30 full calender days).
+- Run a node for a month (30 full calendar days).
 
 - The 30 days count starts from 21-01-2021 at 08:00 CET, even if you started to run your node before that. Hence, if you have uninterrupted uptime, the challenge can earliest be completed on 20-02-2021 at 08:00 CET.
 
