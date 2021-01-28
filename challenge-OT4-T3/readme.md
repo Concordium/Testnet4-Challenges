@@ -13,6 +13,7 @@
 - Create new or reuse identities (mobile wallet).
 - Create new or reuse accounts (mobile wallet or concordium-client).
 - Make sure that your sender account can cover all upcoming transaction fees paid from the general balance. A transfer will fail if the transfer fee cannot be paid. Failed transfers do not add to the requested transactions of the challenge. See [list of current transfer fees](https://github.com/Concordium/Testnet4-Challenges/issues/75).
+- A transfer must go from a sender account to a different account that receives. In other words, do not send a transfer to the sender account.
 
 ## Mission
 - Use the concordium-client.
