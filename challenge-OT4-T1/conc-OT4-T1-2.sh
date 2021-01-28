@@ -11,7 +11,7 @@ pass="123456\r\n"
 
 #Dont forget to update D="$date"T12:00:00Z part. Check your current time and update T12:00 part on script. Time should not be at the past
 #13 17,18,19,20,21   * * * /home/conc/Documents/concordium-software/T1.sh
-
+cd /home/conc/Documents/concordium-software
 
 for i in {1..121}
 do
