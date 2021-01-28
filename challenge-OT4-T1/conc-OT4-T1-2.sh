@@ -9,7 +9,10 @@ receiver="4F8fvbZfBTsM9Aoi1WkoLawxWM4bba7qopW28orLJNfP1PD5vL"
 sender="3DRttEtaofdfmtt8PnP7SsWBjN9SBFUcdRzwi3wWPj9DSXY3Rp"
 pass="123456\r\n"
 
+#cron sample. 
 #13 17,18,19,20,21   * * * /home/conc/Documents/concordium-software/T1.sh
+
+#Update conc part with your username
 cd /home/conc/Documents/concordium-software
 
 for i in {1..121}
