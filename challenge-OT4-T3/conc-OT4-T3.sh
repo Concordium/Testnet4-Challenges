@@ -14,6 +14,7 @@ sender="4h9CqipNJigtTKwox3CAjSNo3jU6hKSoCmrrWGccynkZ2FhqMm" #Account 2
 pass="123456\n"
 pass2="123456\n"
 
+#Update conc part with your username
 cd /home/conc/Documents/concordium-software
 
 echo "RUN $i"
