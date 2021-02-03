@@ -11,6 +11,7 @@
   - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/general/contract-module.rst
   - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/general/contract-instances.rst
   - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/general/contract-schema.rst
+  - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/general/develop-contracts.rst
   - Contract Development Guides
   - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/guides/setup-tools.rst
   - https://github.com/Concordium/concordium.github.io/blob/main/source/smart-contracts/guides/setup-contract.rst
