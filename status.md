@@ -27,4 +27,4 @@ The purpose of this document is to provide real-time information when it comes t
 
 ## Past Updates
 
-n/a
+* [Jan 27 10:45 CET](https://discord.com/channels/667378330923696158/687313907500449849/803924019606716457) We are running some load experiments on the chain right now. Network delays and long finalization times as well as unresponsive network dashboards and wallets are to be expected.
