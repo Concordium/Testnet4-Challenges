@@ -1,1 +1,26 @@
-content_url:<replace this text with your public content URL>
+content_url: https://drive.google.com/file/d/1VTwWujaQktrxPQ--vV97gFBeKKuO3s5n/view
+
+Summary information
+
+Порты: 8082,8888,10000
+sudo groupadd docker
+echo $USER
+sudo usermod -aG docker $USER
+sudo reboot
+sudo apt install tmux -y
+tmux new -s session1
+sudo apt install mc
+mkdir Documents
+wget https://client-distribution-testnet.concordium.com/concordium-software-linux_0.4.8-0.tar.gz
+tar -xvzf concordium-software-linux_0.4.8-0.tar.gz
+
+=======
+Вернуться в сессию tmux:
+tmux attach -t session1
+
+---
+Docker в Ubuntu 18.04
+https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru
+---
+putty
+https://www.putty.org/
