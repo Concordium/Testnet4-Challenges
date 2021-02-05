@@ -43,10 +43,9 @@ Linux:
 sed -i "/priority/d" `docker inspect --format='{{.LogPath}}' concordium-client`
 ```
 
-macOS (you'll need [homebrew](https://brew.sh/)):
+macOS:
 ```
-brew install gnu-sed
-gsed -i "/priority/d" `docker inspect --format='{{.LogPath}}' concordium-client`
+sed -i '' "/priority/d" `docker inspect --format='{{.LogPath}}' concordium-client`
 ```
 
 Windows:
