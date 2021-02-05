@@ -49,6 +49,11 @@ sed -i '' "/priority/d" `docker inspect --format='{{.LogPath}}' concordium-clien
 ```
 
 Windows:
+
+```
+docker inspect --format='{{.LogPath}}' <container_name_or_id>
+```
+to get the filename, and then
 ```
 Get-Content <file> | Select-String -pattern 'priority' -notmatch | Out-File <new-file>
 ```
