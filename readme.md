@@ -31,6 +31,10 @@ Each challenge has its own subfolder under `challenge-OT4-*` with a `readme.md` 
 | OT4-T2    | [Shielded bulk transactions.](challenge-OT4-T2)       | 2000 GTU | 200 | 27-01-2021 23:00 PT | 17-02-2021 23:00 PT |
 | OT4-T3    | [Mixed bulk transactions.](challenge-OT4-T3)          | 3000 GTU | 200 | 27-01-2021 23:00 PT | 17-02-2021 23:00 PT |
 | OT4-T4    | [Scheduled transfers.](challenge-OT4-T4)              | 1000 GTU | 500 | 27-01-2021 23:00 PT | 17-02-2021 23:00 PT |
+| OT4-C1    | [Localize Documentation - Testnet Guides](challenge-OT4-C1)        | 6000 GTU per language | 1 seat per language | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
+| OT4-C2    | [Localize Documentation - Smart Contract Guides](challenge-OT4-C2) | 14,000 GTU per language | 1 seat per language | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
+| OT4-C3    | [Create Tutorials](challenge-OT4-C3)                               | 4000 GTU | 100 | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
+
 
 Each of the baker challenge OT4-B* takes 4 weeks to complete. OT4-B1 can be run as a stand-alone challenge or concurrently with <ins>**one of**</ins> either OT4-B2, OT-B3, or OT4-B4. OT4-B2, OT4-B3, and OT4-B4 **cannot** be combined with each other.
 
