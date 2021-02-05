@@ -8,14 +8,8 @@ The purpose of this document is to provide real-time information when it comes t
 
 ### ✅ Test Network
 
-* From 03-02-2021 to present, incident with sustained transaction loads reaching > 2000 TPS.
-  * Regular transactions might not get included in blocks.
-  * Nodes might experience performance issues or hard system crashes related to RAM exhaustion or exhausted disk space. 
-  * Log size increases and might cause disk space issues.
-  * Concordium nodes were restarted and finalization was consequently slowed down substantially.
-* We are focusing on this issue, so we won’t be responding to individual support requests, questions or channel posts for the time being.
-* We’d appreciate it very much, if you all kept the state of your node unchanged for now.
-* More details will be published soon.
+* From 03-02-2021 to 05-02-2021, incident with sustained transaction loads reaching > 2000 TPS.
+* Update available with version 0.4.11 after restart. For more details, see [High Load Status Report Update](https://medium.com/concordium/ot4-high-load-status-report-update-e03a54bd82fc). Please follow the instructions there to retrieve logs and restart nodes.
 
 ### ✅ Identity Issuer Notabene
 
@@ -23,9 +17,7 @@ The purpose of this document is to provide real-time information when it comes t
 
 ### ✅ Challenges & Supporting Tooling
 
-* We will not reject submissions for the challenges, due to interruptions during the days 03/04/05-02-2021.
-* We suggest to wait for our update before proceeding with the on-chain challenges OT4-B* and OT4-T*.
-* The OT4-C* challenges can be completed.
+* We will not reject submissions for the challenges, due to interruptions during the days 03/04/05-02-2021 (CET).
 
 ### FAQs and Troubleshooting
 
