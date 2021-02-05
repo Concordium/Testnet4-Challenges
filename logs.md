@@ -15,8 +15,6 @@ Simply run the relevant binary on your system where the Concordium Node has been
 **⚠️ These files must be submitted without modifications. Tampering with the summary log will be detected and result in disqualification from all challenges.**
 
 
-
-
 ## Log sizes
 
 After running the node for a significant time you may find that you are running out of disk space on your node.
@@ -37,6 +35,8 @@ If you cannot run it (it fails/breaks), move onto step 2.
 ### 2. Try clear up excess lines in your log
 
 If (1) did not succeed, or you just wish to clear some space, try these commands to strip out excess lines in your log:
+
+**⚠️ You must shut down your node before you do this, otherwise you might corrupt your entire logs! ⚠️**
 
 Linux:
 ```
@@ -63,6 +63,8 @@ You can now try step (1) again if it did not succeed before.
 If this succeeds, great! Nothing more to do.
 
 If this fails, move onto (3).
+
+**⚠️ When you restart your node, answer "No" to changing your nodeID (the default) to keep existing logs ⚠️**
 
 
 ### 3. Advanced log extraction options
