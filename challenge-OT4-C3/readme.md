@@ -5,7 +5,7 @@
 
 ## Mission
 
-- Create a user-friendly tutorial for Concordium Smart Contract and for Concordium Running a Node.
+- Create a user-friendly tutorial for Concordium Smart Contract or for Concordium Running a Node.
 - Preferred languages: English, Turkish, Chinese, Korean or Russian.
 - Possible formats: Video, Article
 
