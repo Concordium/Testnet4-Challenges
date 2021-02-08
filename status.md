@@ -10,7 +10,7 @@ The purpose of this document is to provide real-time information when it comes t
 
 * **Please update your node to 0.4.11 as soon as possible. Retrieve your logs before restarting and updating your node!**
 * From 03-02-2021 to 05-02-2021, incident with sustained transaction loads reaching > 2000 TPS. Update available with version 0.4.11 after restart. **You must extract logs first!** For more details, see [High Load Status Report Update](https://medium.com/concordium/ot4-high-load-status-report-update-e03a54bd82fc). Please follow the instructions there to retrieve logs and restart nodes.
-* **The network will first heal itself completely, when most nodes are updated to 0.4.11.**
+* **The network will only heal itself completely when most nodes are updated to 0.4.11.**
 
 ### ✅ Identity Issuer Notabene
 
