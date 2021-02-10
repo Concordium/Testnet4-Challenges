@@ -5,7 +5,7 @@ We are really glad to invite you to join our Incentivized Testnet 4!
 
 Concordium Testnet 4 was released January 13, 2021.
 
-Concoridum Testnet 4 Incentivized challenges start January 20, 2021 at 23:00 PT and will end 6 weeks later.
+Concordium Testnet 4 Incentivized challenges start January 20, 2021 at 23:00 PT and will end 6 weeks later.
 
 During this period, smart contract developers, businesses, node operators, and community members can, collectively, receive rewards up to 0,15% of the mainnet supply, (up to 15,000,000 GTU) for helping secure, sustain, and grow Concordium Network and the ecosystem. Rewards will be transferred in GTU after the Mainnet goes live.  
 
@@ -50,7 +50,7 @@ The challenges intentionally only provide a minimum description of the tasks. Fo
 - The GitHub user name should not be changed until the rewards are paid out on mainnet.
 - Each challenge has a GTU amount tag, which is rewarded, if Concordium accepts the submission.
 - Each challenge has a total number of seats for which rewards can be paid out.
-- All submissions must stricely follow our [Submission Process](/submission-process.md), otherwise they will be rejected.
+- All submissions must strictly follow our [Submission Process](/submission-process.md), otherwise they will be rejected.
 
 
 Note: all GTU activity on the Testnet is non-transferrable to Mainnet, the Testnet is just that: a test network.
