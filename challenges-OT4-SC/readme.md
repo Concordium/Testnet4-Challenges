@@ -22,7 +22,7 @@ A contributor can apply for one of the 20 seats by sending a registration, which
 ### Registration
 
 - Choose a smart contract from our [smart contract categories](/smart-contract-categories.md).
-- Fill out your [registration template](#registration-template) and send it to [testnet@concordium.com](testnet@concordium.com) with subject "smart contract registration".
+- Fill out your [registration template](#registration-template) and send it to [testnet@concordium.com](mailto:testnet@concordium.com) with subject "smart contract registration".
 - If you get accepted, you will be notified by email and receive invitations to join the private `Testnet4-SmartContractChallenges` repository and the private `smart-contract-challenges` channel on Discord. 
 
 ### Participation
