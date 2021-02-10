@@ -36,7 +36,7 @@ A contributor can apply for one of the 20 seats by sending a registration, which
 
 ### Changes along the way
 
-- We'd prefer if you stayed with the smart contract that you specified in your registration. If you plan to change the category, send us an email to [testnet@concordium.com](mailto:testnet@concordium.com) and briefly explain your[testnet@concordium.com](mailto:testnet@concordium.com) reasons. It is valuable feedback for us why and where you got stuck with your original contract.
+- We'd prefer if you stayed with the smart contract that you specified in your registration. If you plan to change the category, send us an email to [testnet@concordium.com](mailto:testnet@concordium.com) and briefly explain your reasons. It is valuable feedback for us why and where you got stuck with your original contract.
 - If you want to drop out without submitting, please let us know. We can then make your seat available to others.
 - We are looking forward to engaging in direct communication and cooperation. But just for completeness, we reserve our right to withdraw acceptance and access of a contributor at any time, if e.g. language or attitude becomes offensive.
 
@@ -57,4 +57,4 @@ Your application **must** answer all bullets below. Note however that it is not 
 1. Experience with Concordium blockchain?
 1. Experience with other blockchains?
 
-Send us an email to [testnet@concordium.com](testnet@concordium.com) with your answers and subject "smart contract registration".
+Send us an email to [testnet@concordium.com](mailto:testnet@concordium.com) with your answers and subject "smart contract registration".
