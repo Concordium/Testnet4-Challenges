@@ -34,6 +34,9 @@ Each challenge has its own subfolder under `challenge-OT4-*` with a `readme.md` 
 | OT4-C1    | [Localize Documentation - Testnet Guides](challenge-OT4-C1)        | 6000 GTU per language | 1 seat per language | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
 | OT4-C2    | [Localize Documentation - Smart Contract Guides](challenge-OT4-C2) | 14,000 GTU per language | 1 seat per language | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
 | OT4-C3    | [Create Tutorials](challenge-OT4-C3)                               | 4000 GTU | 100 | 03-02-2021 23:00 PT | 17-02-2021 23:00 PT |
+| OT4-SC1   | [Active Participation](challenges-OT4-SC)      | 20.000 GTU | 20 | 10-02-2021 23:30 PT | 03-03-2021 23:00 PT |
+| OT4-SC2   | [Executable Smart Contract](challenges-OT4-SC) | 25.000 GTU | 20 | 10-02-2021 23:30 PT | 03-03-2021 23:00 PT |
+| OT4-SC3   | [Top5 Smart Contract Bonus](challenges-OT4-SC) | 35.000 GTU | 5  | 10-02-2021 23:30 PT | 03-03-2021 23:00 PT |
 
 
 Each of the baker challenge OT4-B* takes 4 weeks to complete. OT4-B1 can be run as a stand-alone challenge or concurrently with <ins>**one of**</ins> either OT4-B2, OT-B3, or OT4-B4. OT4-B2, OT4-B3, and OT4-B4 **cannot** be combined with each other.
