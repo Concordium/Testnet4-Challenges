@@ -32,7 +32,7 @@ A contributor can apply for one of the 20 seats by sending a registration, which
 - Develop, test and deploy your smart contract.
 - Engage with us and other contributors in Discord.
 - Have fun :sparkles:
-- Submit in repo `Testnet4-SmartContractChallenges`. Please note that submissions are under license MPL2, providing us with the possibility to use the smart contract freely after the challenge programme.
+- Submit in repo `Testnet4-SmartContractChallenges` (under license Apache 2.0).
 
 ### Changes along the way
 
