@@ -4,5 +4,6 @@
 
 | Status               |  Seats Available | Seats Taken | Registrations Received | 
 |-                     | -                | -           |-                       |
-| 11-02-2021 08:30 CET | 20               | 0           | 20                     |
+| 11-02-2021 08:30 CET | 20               | 0           | 0                      | 
+| 12-02-2021 14:15 CET | 20               | 0           | 20                     |
 
