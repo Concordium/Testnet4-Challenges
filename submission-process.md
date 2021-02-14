@@ -5,7 +5,7 @@
 2. Each challenge has it's own folder, with a `readme.md` and `submission.txt` files.
   - Submissions must adhere to the `readme.md` instructions exactly or they will be automatically disqualified.
   - Submissions must fill out the `submission.txt` details or they will be automatically disqualified.
-3. Create or upload your submission content in the correct challenge folder **only when you have completed it**. ([howto](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github))
+3. Create or upload your submission content in the correct challenge folder <ins>**only when you have completed it**</ins>. ([howto](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github))
 4. Make a signed commit. ([howto](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification))
 5. Create a pull request. ([howto](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests))
 
