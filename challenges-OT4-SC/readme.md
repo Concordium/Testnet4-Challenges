@@ -1,3 +1,5 @@
+Registrations are now closed! Thanks to everyone who applied.
+
 | Challenge | Title | GTU Reward | Seats | Start Date | Last Date for Submission  |
 | -         | -     |          -:| -     |-           | -                         |
 | OT4-SC1   | Active Participation       | 20.000 GTU | 20 | 10-02-2021 23:30 PT | 03-03-2021 23:00 PT |
