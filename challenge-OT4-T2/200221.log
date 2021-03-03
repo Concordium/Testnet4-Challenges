@@ -1,0 +1,1560 @@
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction '1f2e8e5307a293e77a95435a4a7b01b595ae8de04965a5172d0b1a45e07a809b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1f2e8e5307a293e77a95435a4a7b01b595ae8de04965a5172d0b1a45e07a809b'.
+[05:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:15:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3209, but last committed one has 3208.
+         This transaction will have nonce 3210 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '3b720cbdb84c9759e0510cabd508ef8e8c6b9f2d5f3edd65626433ec2863f808' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3b720cbdb84c9759e0510cabd508ef8e8c6b9f2d5f3edd65626433ec2863f808'.
+[05:05:10] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:20:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3208.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+.[92mTransaction '2f2c66e15eb057f5902a73d8a8d872f5bcec51f554704a5b109534338e17406d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2f2c66e15eb057f5902a73d8a8d872f5bcec51f554704a5b109534338e17406d'.
+[05:10:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:25:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3208.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '4a70ba16515880be41c59f2198c651cca5013c8867ae83ef8b946f091367538a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 4a70ba16515880be41c59f2198c651cca5013c8867ae83ef8b946f091367538a'.
+[05:15:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:30:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3208.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'c037bfd9f8556bbdb63e8b50321e67d00f2e20b9d8acd188923e2a156ee0d639' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c037bfd9f8556bbdb63e8b50321e67d00f2e20b9d8acd188923e2a156ee0d639'.
+[05:20:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:35:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3208.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '923df7eb08be8faf6f31a8287b82b0fbc3bf99e1129f9dabe74a7a9fd536fd64' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 923df7eb08be8faf6f31a8287b82b0fbc3bf99e1129f9dabe74a7a9fd536fd64'.
+[05:25:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:40:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3208.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '575df22db575663727eacd0ca67eb23a2a207ead3eb5c326b35b74f8140275f1' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 575df22db575663727eacd0ca67eb23a2a207ead3eb5c326b35b74f8140275f1'.
+[05:30:09] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:45:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3208.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction '3654bbcc0ecd6effe009c57a580f634308da0cd76b345979a7ffd66aef35eac7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3654bbcc0ecd6effe009c57a580f634308da0cd76b345979a7ffd66aef35eac7'.
+[05:35:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3208.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '8d186382324f6c43ff4cb6b9fdc3ec19c92657bcb424e7d21178d31a9d5667b8' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 8d186382324f6c43ff4cb6b9fdc3ec19c92657bcb424e7d21178d31a9d5667b8'.
+[05:40:09] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 05:55:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3208.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '676acfa5964e4427557239cf7dd3018aa32826c66be65064fe1d3723c2378485' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 676acfa5964e4427557239cf7dd3018aa32826c66be65064fe1d3723c2378485'.
+[05:45:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 06:00:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3208.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '2d97f7368ed19fd91230f8e84a1e915e98cdb3a82accd90b8e0d5b778bbf1c1a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2d97f7368ed19fd91230f8e84a1e915e98cdb3a82accd90b8e0d5b778bbf1c1a'.
+[05:50:10] Waiting for the transaction to be committed......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 06:05:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3208.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction 'e601566763606610a93ad14b5eea6ba901d98780b3b003414ecad08b3b2f1384' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status e601566763606610a93ad14b5eea6ba901d98780b3b003414ecad08b3b2f1384'.
+[05:55:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.....................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'd5e288a60fcb05fe29dfdd29081bbb3279ab03832a1a7427b932dd49838925a3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status d5e288a60fcb05fe29dfdd29081bbb3279ab03832a1a7427b932dd49838925a3'.
+[07:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:15:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3209, but last committed one has 3208.
+         This transaction will have nonce 3210 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '3aa782b6932cf9128bb30436a3bc9bfac6466f5d53423ac6bc4b587c05ee3d6f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3aa782b6932cf9128bb30436a3bc9bfac6466f5d53423ac6bc4b587c05ee3d6f'.
+[07:05:10] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:20:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3208.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '259816beae4076fd6ac39d2d83be0c292673a60966a17467d5658efdf4edc67a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 259816beae4076fd6ac39d2d83be0c292673a60966a17467d5658efdf4edc67a'.
+[07:10:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:25:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3208.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '944b7dacb88cb74136ff4fbca2589b51e774c64a2722e2d49ea584894d5a7862' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 944b7dacb88cb74136ff4fbca2589b51e774c64a2722e2d49ea584894d5a7862'.
+[07:15:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:30:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3208.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '533cd5f18d99ed956efba6c5293fd667a9bdc532505a53697480755561df8b10' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 533cd5f18d99ed956efba6c5293fd667a9bdc532505a53697480755561df8b10'.
+[07:20:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:35:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3208.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction 'b668a4625841889efeba70d3274a3176db4bb405d59e4bf6964558e715037335' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b668a4625841889efeba70d3274a3176db4bb405d59e4bf6964558e715037335'.
+[07:25:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:40:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3208.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '558c98d6ca73a62b87a98b1b6472254c1df115e74b18bdfc7dc8c1bbc5bc604b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 558c98d6ca73a62b87a98b1b6472254c1df115e74b18bdfc7dc8c1bbc5bc604b'.
+[07:30:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:45:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3208.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '81c8773a60a4b6673013bb201887ce73c9f630a01cdfb6fc2a325835751bb6ad' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 81c8773a60a4b6673013bb201887ce73c9f630a01cdfb6fc2a325835751bb6ad'.
+[07:35:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3208.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction '547c4ed8ab80a2e7be022994871ced759988244d7106fe538174cf73b893cd22' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 547c4ed8ab80a2e7be022994871ced759988244d7106fe538174cf73b893cd22'.
+[07:40:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 07:55:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3208.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '5939e271be1495ea5696ccbc8083b536a59a09c223ec87f36d754d4429880792' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5939e271be1495ea5696ccbc8083b536a59a09c223ec87f36d754d4429880792'.
+[07:45:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 08:00:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3208.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'd2d33be479c16d5a7ea6d10f96086f86342f815ecc1c4fc16e45743129d4195d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status d2d33be479c16d5a7ea6d10f96086f86342f815ecc1c4fc16e45743129d4195d'.
+[07:50:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 08:05:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3208.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction '4d44de2c8f46fd304e21bb1850f5eff678bafd37cd67a5e12abd8b4a6c0235f6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 4d44de2c8f46fd304e21bb1850f5eff678bafd37cd67a5e12abd8b4a6c0235f6'.
+[07:55:10] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m....................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m....................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:10:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'a6d4a991bf1aa0377755a33e9c4aa216cee6d99c6d976970386a06c60c344ea9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a6d4a991bf1aa0377755a33e9c4aa216cee6d99c6d976970386a06c60c344ea9'.
+[09:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:15:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3209, but last committed one has 3208.
+         This transaction will have nonce 3210 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '9376369126d1ea451d4833e35c08cbddf5f418c1ad4dbaac1c6698f212cfbc1a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9376369126d1ea451d4833e35c08cbddf5f418c1ad4dbaac1c6698f212cfbc1a'.
+[09:05:09] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:20:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3208.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction 'ea3698532b925f37b5e6413f0987dbfaa7be037f02069dbb66232ed372b53ab9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ea3698532b925f37b5e6413f0987dbfaa7be037f02069dbb66232ed372b53ab9'.
+[09:10:10] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:25:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3208.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '5917aaaef1c187305b0a5f6365690a548b396432c100e4978c384b0a3430b288' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5917aaaef1c187305b0a5f6365690a548b396432c100e4978c384b0a3430b288'.
+[09:15:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:30:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3208.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '86dc2d48b20fc9fc2e37dffa86f7415689cefb9a9a5937410c406941831e9522' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 86dc2d48b20fc9fc2e37dffa86f7415689cefb9a9a5937410c406941831e9522'.
+[09:20:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: .
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:35:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3208.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '6b12c77efeb691def9b7785e6f957b04f633f5171eeadd880236167e490c8947' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 6b12c77efeb691def9b7785e6f957b04f633f5171eeadd880236167e490c8947'.
+[09:25:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:40:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3208.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'c3f2c90bac73cccaaacd8ddc5c1e884d9f9ec6829458bad3193563a3a6e7bb44' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c3f2c90bac73cccaaacd8ddc5c1e884d9f9ec6829458bad3193563a3a6e7bb44'.
+[09:30:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:45:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3208.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'cc42a77f3c54133fb1344908bbfd75a4561a48c3f6375205719567efc570b3d3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status cc42a77f3c54133fb1344908bbfd75a4561a48c3f6375205719567efc570b3d3'.
+[09:35:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3208.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '941f0d7102306bf55a4643774b8d19a6b8e91a89d7e47500a47f558eaf2d2eae' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 941f0d7102306bf55a4643774b8d19a6b8e91a89d7e47500a47f558eaf2d2eae'.
+[09:40:09] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 09:55:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3208.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '770986cc060bfce1ab57ee95c0a0318d47679f9e1388464aca6ef2af6a5b742a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 770986cc060bfce1ab57ee95c0a0318d47679f9e1388464aca6ef2af6a5b742a'.
+[09:45:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 10:00:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3208.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'ef0da351a682d5dcf02bbaf4e0c0f6e7caf0e2d512762eba6b8019bc47444812' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ef0da351a682d5dcf02bbaf4e0c0f6e7caf0e2d512762eba6b8019bc47444812'.
+[09:50:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 10:05:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3208.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '451f964a0bed73907a99dd209eaa8e8a13d13a1d561d44eed76b5c3e9eabcd9e' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 451f964a0bed73907a99dd209eaa8e8a13d13a1d561d44eed76b5c3e9eabcd9e'.
+[09:55:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m......................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m....................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction '0360f0d16b367d77e3b95b8ed9ef510f5b5caa25a1101569a198499fad0bfe72' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0360f0d16b367d77e3b95b8ed9ef510f5b5caa25a1101569a198499fad0bfe72'.
+[11:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:15:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3209, but last committed one has 3208.
+         This transaction will have nonce 3210 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '77cfee648e4bf44cb9b04bee6e0057807bd412861272bb17c402e051ee383f6b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 77cfee648e4bf44cb9b04bee6e0057807bd412861272bb17c402e051ee383f6b'.
+[11:05:10] Waiting for the transaction to be committed..................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+.Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:20:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3208.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction 'c022b7c18ba59ddffc225e16982b5753d38d5174be736034736e5e1d5d309237' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c022b7c18ba59ddffc225e16982b5753d38d5174be736034736e5e1d5d309237'.
+[11:10:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:25:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3208.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '7ce739df2f9d4fa489ae9bb5df1d69c08a4d5661b594339660a8ee76224bf89f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7ce739df2f9d4fa489ae9bb5df1d69c08a4d5661b594339660a8ee76224bf89f'.
+[11:15:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:30:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3208.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '27bd7e631122b0e95d7b34d01e0d3e879a6836c053e646d17d927e17183821df' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 27bd7e631122b0e95d7b34d01e0d3e879a6836c053e646d17d927e17183821df'.
+[11:20:09] Waiting for the transaction to be committed............................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:35:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3208.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '3e60f71ac0bafda51f386c4f614eb54ac24548aa6cf922fae4a834c6cab4e660' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3e60f71ac0bafda51f386c4f614eb54ac24548aa6cf922fae4a834c6cab4e660'.
+[11:25:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:40:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3208.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '28d5d9d2faec967f22cd0cf76e6ae32b682244e0551539a9dd3c881474dc61f2' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 28d5d9d2faec967f22cd0cf76e6ae32b682244e0551539a9dd3c881474dc61f2'.
+[11:30:10] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:45:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3208.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '02367053321d63e09a5563bb842133130a7dd5774e07edc48b9184f13655b465' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 02367053321d63e09a5563bb842133130a7dd5774e07edc48b9184f13655b465'.
+[11:35:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3208.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction '7bd8a473448d2aa1037fbfcaa177a1f95fc74da8ff018cc0a5997a39c1f622eb' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7bd8a473448d2aa1037fbfcaa177a1f95fc74da8ff018cc0a5997a39c1f622eb'.
+[11:40:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 11:55:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3208.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '4d04155a41b5a8b32480afbb6b74c94d4592a5eaab305d3419e0c6b3e6b72a32' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 4d04155a41b5a8b32480afbb6b74c94d4592a5eaab305d3419e0c6b3e6b72a32'.
+[11:45:11] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 12:00:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3208.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction '769f6683e470861d437394eb9b0de90e36f2d7274a6f6e2c73cb7bc6f0a2e6a9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 769f6683e470861d437394eb9b0de90e36f2d7274a6f6e2c73cb7bc6f0a2e6a9'.
+[11:50:09] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 12:05:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3208.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+.[92mTransaction '653e3d7694e2fbc56c3ddf2e7ddfefa105e58e8ddbaca8ab5202f92ba74f553a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 653e3d7694e2fbc56c3ddf2e7ddfefa105e58e8ddbaca8ab5202f92ba74f553a'.
+[11:55:11] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.......................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:10:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'a9a4089c5eda3a76d74ae6ff238d0f688aaf955bd7d01e8dd932f58aa52105dc' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a9a4089c5eda3a76d74ae6ff238d0f688aaf955bd7d01e8dd932f58aa52105dc'.
+[13:00:09] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:15:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3209.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '641cb0342ef3cd596f25a69d1f93241f41cff3d0ad4e3f82cda2761322b4a6d7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 641cb0342ef3cd596f25a69d1f93241f41cff3d0ad4e3f82cda2761322b4a6d7'.
+[13:05:10] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:20:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3209.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'c6550aa9b02091d5fc4dc8c2341457588d8ee09a05dab3b078b1e65fcf74d95d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c6550aa9b02091d5fc4dc8c2341457588d8ee09a05dab3b078b1e65fcf74d95d'.
+[13:10:09] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:25:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3209.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction '8d35ad8cf5286af1f1e3a0987d5f135112f6fd85c62af2efdeb736c8593e9a1f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 8d35ad8cf5286af1f1e3a0987d5f135112f6fd85c62af2efdeb736c8593e9a1f'.
+[13:15:09] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:30:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3209.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '9af03922b19d0839797ccb1932e6a9f854484d58c4f38da37c2d003437b48454' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9af03922b19d0839797ccb1932e6a9f854484d58c4f38da37c2d003437b48454'.
+[13:20:10] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:35:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3209.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '2907cdebb4f7ae4a8cd3aef98989571c77fe3ec21e560a84dbc142a8a91ef547' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2907cdebb4f7ae4a8cd3aef98989571c77fe3ec21e560a84dbc142a8a91ef547'.
+[13:25:09] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:40:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3209.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '8b63efe08011204ad3c43c2198a9a80c82da981982b5aea3e80b7ad10c3ecb7e' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 8b63efe08011204ad3c43c2198a9a80c82da981982b5aea3e80b7ad10c3ecb7e'.
+[13:30:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:45:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3209.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'a2a2d494630bc20e4a0ad650bc7306ad30d135144deb07cc732c8351d5bb7946' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a2a2d494630bc20e4a0ad650bc7306ad30d135144deb07cc732c8351d5bb7946'.
+[13:35:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3209.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '06095d0932915dc1f8dbaea5255e436304646939402e3c8fc50fce5f46f6a006' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 06095d0932915dc1f8dbaea5255e436304646939402e3c8fc50fce5f46f6a006'.
+[13:40:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 13:55:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3209.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '57b1a4fafbd7301c2bbea2bbc1e0685671ad9239800b8b9ba9d651555d2f7cae' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 57b1a4fafbd7301c2bbea2bbc1e0685671ad9239800b8b9ba9d651555d2f7cae'.
+[13:45:09] Waiting for the transaction to be committed............................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 14:00:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3209.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '3f441718f30748e2e9442aefe75425d59b491fdc0bdcd6d2b35adc5d0c4a0c43' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3f441718f30748e2e9442aefe75425d59b491fdc0bdcd6d2b35adc5d0c4a0c43'.
+[13:50:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 14:05:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3220, but last committed one has 3209.
+         This transaction will have nonce 3221 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '80f63a0769afc42a3b160dce301192991202e5a97677a64784f2a9064d4f9af6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 80f63a0769afc42a3b160dce301192991202e5a97677a64784f2a9064d4f9af6'.
+[13:55:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.....................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:10:01 UTC.
+Enter password for signing key: 
+[92mTransaction '379669bcd9fdeb5aaa45a30dce7aea5610aa2266a2cd5f5ef2746b80ba47c706' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 379669bcd9fdeb5aaa45a30dce7aea5610aa2266a2cd5f5ef2746b80ba47c706'.
+[15:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:15:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3209.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'a896a2c28f23cc741b4324a53bafa6840cd002a04087261b5b1134773bc9e6a0' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a896a2c28f23cc741b4324a53bafa6840cd002a04087261b5b1134773bc9e6a0'.
+[15:05:09] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:20:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3209.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+.[92mTransaction '0fdded6ab5465f0d480e818be9d828b85cd14fdd5ace8638e03f5f7562ba1793' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0fdded6ab5465f0d480e818be9d828b85cd14fdd5ace8638e03f5f7562ba1793'.
+[15:10:09] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:25:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3209.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction 'a855be39f5056ba9c880704c8e5a1ae47a1d0aa1f49949c8684288fa3e401ab6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a855be39f5056ba9c880704c8e5a1ae47a1d0aa1f49949c8684288fa3e401ab6'.
+[15:15:10] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:30:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3209.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '0fd604ff8c60a5452654b74dbc92bfa873aaf652d098db296cd99f5d0577e96b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0fd604ff8c60a5452654b74dbc92bfa873aaf652d098db296cd99f5d0577e96b'.
+[15:20:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:35:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3209.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '286373da9b5fe4f3af2b529a747762891abf926e74b16dba61854e678e266ae3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 286373da9b5fe4f3af2b529a747762891abf926e74b16dba61854e678e266ae3'.
+[15:25:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:40:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3209.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '715f52f433049e0a5b1c017b8b19a7d947a3e30c4c762211fe6e4079d2620c09' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 715f52f433049e0a5b1c017b8b19a7d947a3e30c4c762211fe6e4079d2620c09'.
+[15:30:10] Waiting for the transaction to be committed......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:45:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3209.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'dc6c277c07bcb408a0feede6accbd91f40f898bafe0c355c44f2d17af73ba2d8' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status dc6c277c07bcb408a0feede6accbd91f40f898bafe0c355c44f2d17af73ba2d8'.
+[15:35:09] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:50:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3209.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'f4e2b5de7d7faa48ac2a570ff3c74adff87aae71143175c4669689b6e18c2f0b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f4e2b5de7d7faa48ac2a570ff3c74adff87aae71143175c4669689b6e18c2f0b'.
+[15:40:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 15:55:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3209.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '5404d645f6b84b9d6908ff82bfda5fed80a572af48e3cd7eed03649c1e8f0e07' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5404d645f6b84b9d6908ff82bfda5fed80a572af48e3cd7eed03649c1e8f0e07'.
+[15:45:09] Waiting for the transaction to be committed.............................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 16:00:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3209.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '57f3a3ab49d6b49e443cb4871f2123e9b65e0e20b000882b5773aaa0229dc6ce' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 57f3a3ab49d6b49e443cb4871f2123e9b65e0e20b000882b5773aaa0229dc6ce'.
+[15:50:09] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 16:05:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3220, but last committed one has 3209.
+         This transaction will have nonce 3221 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '89cebba58541e65f78e2641e3ef37894a1808beb27c0295ce36dc8395f5fac68' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 89cebba58541e65f78e2641e3ef37894a1808beb27c0295ce36dc8395f5fac68'.
+[15:55:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m......................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:10:01 UTC.
+Enter password for signing key: 
+[92mTransaction '5c79f7c57c2209584a50b49328bef98d0d96c1cc34a1d385cb7137039a492568' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5c79f7c57c2209584a50b49328bef98d0d96c1cc34a1d385cb7137039a492568'.
+[17:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:15:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3209.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '9cf72c2384be905d7a8ae58d1d9894d9ecfe3e66db0396a89c01f68e28c6dfa9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9cf72c2384be905d7a8ae58d1d9894d9ecfe3e66db0396a89c01f68e28c6dfa9'.
+[17:05:10] Waiting for the transaction to be committed...................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:20:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3209.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '7055a7916d29789bf47235f0cf9b1020a5110b6abf6ce1be612feec09c86a9d1' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7055a7916d29789bf47235f0cf9b1020a5110b6abf6ce1be612feec09c86a9d1'.
+[17:10:09] Waiting for the transaction to be committed.......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m........................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:25:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3209.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction '5ae17b1cf19c954621f833068b35d71e586ee9a1213d9e7b1f42f1c1c31ed475' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5ae17b1cf19c954621f833068b35d71e586ee9a1213d9e7b1f42f1c1c31ed475'.
+[17:15:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:30:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3209.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'c0788d73f1f2774ad10cc003107c5cd4c1c437e1acfd191d73f1d1fcfdf9a765' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c0788d73f1f2774ad10cc003107c5cd4c1c437e1acfd191d73f1d1fcfdf9a765'.
+[17:20:09] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:35:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3209.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction 'a33bd3557b0877841950d8ae5f19816a302a3dfbba0fe2298b2225330d899b7e' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a33bd3557b0877841950d8ae5f19816a302a3dfbba0fe2298b2225330d899b7e'.
+[17:25:09] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:40:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3209.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction '106c5b1caf4dd767be77fcbbffa240a38a6ab776fe75506de0a958a1160966c7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 106c5b1caf4dd767be77fcbbffa240a38a6ab776fe75506de0a958a1160966c7'.
+[17:30:10] Waiting for the transaction to be committed......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m..................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:45:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3209.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key:
+ 
+[92mTransaction 'ef796d272eb945c37239445f926b3b50334dbe3fb300f7cf0c2dfa804939ba3c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ef796d272eb945c37239445f926b3b50334dbe3fb300f7cf0c2dfa804939ba3c'.
+[17:35:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:50:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3209.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '66caf3763fc4e15c22cc3f88dbc375af6235de227fc94b179819c5fec8e011c2' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 66caf3763fc4e15c22cc3f88dbc375af6235de227fc94b179819c5fec8e011c2'.
+[17:40:10] Waiting for the transaction to be committed...........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 17:55:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3209.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '7897baf076fdb4f04ce78b1c15e0a846fc2149a04f2ffad9504c2444a2a79860' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7897baf076fdb4f04ce78b1c15e0a846fc2149a04f2ffad9504c2444a2a79860'.
+[17:45:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 18:00:01 UTC.
+[93mWarning: There is a pending transaction. with nonce 3219, but last committed one has 3209.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '2601fb7959edd9d52620a9b13659ac634f13490bc9dbafe08ed491e8b47c38da' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2601fb7959edd9d52620a9b13659ac634f13490bc9dbafe08ed491e8b47c38da'.
+[17:50:09] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 18:05:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3220, but last committed one has 3209.
+         This transaction will have nonce 3221 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'a1ca05ce84002cfa46045d16fbf15d27840d4c9310537e7b4e7977b3c7190fa9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a1ca05ce84002cfa46045d16fbf15d27840d4c9310537e7b4e7977b3c7190fa9'.
+[17:55:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m......................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m....................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0mspawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'fbe2f339f0d5a4e8e56685a541ef84ee81b36b41bfb721de3b7c68ee39d32387' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status fbe2f339f0d5a4e8e56685a541ef84ee81b36b41bfb721de3b7c68ee39d32387'.
+[19:00:10] Waiting for the transaction to be committed...................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+....Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:15:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3210, but last committed one has 3209.
+         This transaction will have nonce 3211 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '96b9d11208e1138eadb785095f18e0c1094e30fc079b88a91e539e872b163cec' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 96b9d11208e1138eadb785095f18e0c1094e30fc079b88a91e539e872b163cec'.
+[19:05:10] Waiting for the transaction to be committed..................................................................................................................................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:20:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3211, but last committed one has 3209.
+         This transaction will have nonce 3212 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '1013121a487d4f195e7b61b319afef08cb532c23fa7fa40849f54186c274b01c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1013121a487d4f195e7b61b319afef08cb532c23fa7fa40849f54186c274b01c'.
+[19:10:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m............................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:25:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3212, but last committed one has 3209.
+         This transaction will have nonce 3213 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'b876b4055041e68a74f474a4eb91b68b718d613744e68d3322ec0990dccdf0d3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b876b4055041e68a74f474a4eb91b68b718d613744e68d3322ec0990dccdf0d3'.
+[19:15:10] Waiting for the transaction to be committed......................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:30:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3213, but last committed one has 3209.
+         This transaction will have nonce 3214 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'a44c98d889abe2344f5baa9c6bd92ba3e577354757e9e186a76b2115a6307fd9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a44c98d889abe2344f5baa9c6bd92ba3e577354757e9e186a76b2115a6307fd9'.
+[19:20:10] Waiting for the transaction to be committed........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:35:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3214, but last committed one has 3209.
+         This transaction will have nonce 3215 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '1993474178ab5bc7c0774e7f2fb2406707029ff18c9e9c7c31e757e551ad2513' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1993474178ab5bc7c0774e7f2fb2406707029ff18c9e9c7c31e757e551ad2513'.
+[19:25:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:40:02 UTC.
+.[93mWarning: There is a pending transaction with nonce 3215, but last committed one has 3209.
+         This transaction will have nonce 3216 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '775b992fe78d1f01963a4e25b5b94a6ab4e6a02e60473f4c4abdfc6e13f26000' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 775b992fe78d1f01963a4e25b5b94a6ab4e6a02e60473f4c4abdfc6e13f26000'.
+[19:30:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:45:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3216, but last committed one has 3209.
+         This transaction will have nonce 3217 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+
+[92mTransaction '7241740f5e82fdc391ba38ec79cbe4ae58511c974a08e2e5d84c1b18a2487343' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7241740f5e82fdc391ba38ec79cbe4ae58511c974a08e2e5d84c1b18a2487343'.
+[19:35:10] Waiting for the transaction to be committed.........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:50:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3217, but last committed one has 3209.
+         This transaction will have nonce 3218 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '6fe90578d8774f265b5285c3b2e666c44fbce431bf682fd3cc1c72f946c7ec67' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 6fe90578d8774f265b5285c3b2e666c44fbce431bf682fd3cc1c72f946c7ec67'.
+[19:40:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 19:55:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3218, but last committed one has 3209.
+         This transaction will have nonce 3219 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+.[92mTransaction 'e933cf3e9699d95c20b1f39849c35705f56a0663a42594d88c8554959b8fa4fd' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status e933cf3e9699d95c20b1f39849c35705f56a0663a42594d88c8554959b8fa4fd'.
+[19:45:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m................................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+........Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 20:00:02 UTC.
+[93mWarning: There is a pending transaction with nonce 3219, but last committed one has 3209.
+         This transaction will have nonce 3220 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '12d9d4d9dc6633c450fae6ee7af47b97e1629fd403b8d8962bf277e79160044a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 12d9d4d9dc6633c450fae6ee7af47b97e1629fd403b8d8962bf277e79160044a'.
+[19:50:10] Waiting for the transaction to be committed..........................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...............................................................................................................................................spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+.......Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Sat, 20 Feb 2021 20:05:01 UTC.
+[93mWarning: There is a pending transaction with nonce 3220, but last committed one has 3209.
+         This transaction will have nonce 3221 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '72fc17f6197a2661cab35a4eab6c1fa4553b15eaee33ab15cc3abb8d36304ebd' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 72fc17f6197a2661cab35a4eab6c1fa4553b15eaee33ab15cc3abb8d36304ebd'.
+[19:55:09] Waiting for the transaction to be committed.............................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m.....................................................................................................................................................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m...................................................................................................................................
+[91mError: Transaction failed before it got committed. Most likely because it was invalid.
+[0m

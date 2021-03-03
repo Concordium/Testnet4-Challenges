@@ -1,0 +1,32 @@
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Wed, 10 Feb 2021 22:04:29 UTC.
+Enter password for signing key: 
+[92mTransaction '508518f0f5d7137a3a0cbb36e3c08b3d591e280d424ba42481bdb7041c1c6ed3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 508518f0f5d7137a3a0cbb36e3c08b3d591e280d424ba42481bdb7041c1c6ed3'.
+[21:54:37] Waiting for the transaction to be committed....
+Transaction is committed into block 7cdbc8c921e816c606fc46218fd8b72f41ebfdf8d82e8d44e1b73a15e9c451d7 with status "success" and cost 3.007000 GTU (30070 NRG).
+[21:54:39] Waiting for the transaction to be finalized....
+[21:54:44] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Wed, 10 Feb 2021 22:09:47 UTC.
+Enter password for signing key: 
+[92mTransaction 'cb96f8162d308dcf9e5ad07d2e8cfb7c1521bff1d0970ea2f219ef1dc88efc42' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status cb96f8162d308dcf9e5ad07d2e8cfb7c1521bff1d0970ea2f219ef1dc88efc42'.
+[21:59:55] Waiting for the transaction to be committed................
+Transaction is committed into block ea9b077d8c14502a31207e390406b21e6463f3e7811118f9af08b1da2d320544 with status "success" and cost 3.007000 GTU (30070 NRG).
+[22:00:26] Waiting for the transaction to be finalized.......
+[22:00:48] Transaction finalized.
