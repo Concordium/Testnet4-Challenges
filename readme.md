@@ -1,6 +1,8 @@
 
 # Testnet 4 Challenges
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/Concordium/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+
 We are really glad to invite you to join our Incentivized Testnet 4!
 
 Concordium Testnet 4 was released January 13, 2021.
