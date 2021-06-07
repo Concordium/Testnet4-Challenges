@@ -1,0 +1,1600 @@
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:10:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'b43d05af20d2074339f48e38e7d23033fa113fc5e530f143b6da163da567c8c7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b43d05af20d2074339f48e38e7d23033fa113fc5e530f143b6da163da567c8c7'.
+[05:00:09] Waiting for the transaction to be committed..................
+Transaction is committed into block 28c611574fc55fb8037a05ef8feb72a1075b9268d07c71284e57b5a694ac9cad with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:00:55] Waiting for the transaction to be finalized.....
+[05:01:06] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:15:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '1cf32aef8999a91098836a6cc706d3b559ed98b830e72a3fdde10859f2ee62f8' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1cf32aef8999a91098836a6cc706d3b559ed98b830e72a3fdde10859f2ee62f8'.
+[05:05:10] Waiting for the transaction to be committed........
+Transaction is committed into block cfbb519a17f3b530068da10b155ecc58644f085efa30110c7b9b2126d0e3daf7 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:05:24] Waiting for the transaction to be finalized.....
+[05:05:37] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:20:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'edf26972b471c2d39f78781e4ad68d3cded35ca042680a4cc0d625b9b769b5f5' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status edf26972b471c2d39f78781e4ad68d3cded35ca042680a4cc0d625b9b769b5f5'.
+[05:10:10] Waiting for the transaction to be committed...........
+Transaction is committed into block d01d349cadb769092981f3a515fc1fb8dda41e3720186b7f368ac62782be07da with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:10:37] Waiting for the transaction to be finalized.....
+Transaction is finalized into block 63f5ed276b099f4aa64055ea7818250ec73ca3cd5d5a006f6e8179a9a1a325b5 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:10:48] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:25:02 UTC.
+Enter password for signing key: 
+[92mTransaction '281063527e03acfeaed4ff4cb1399b839b447ed0406d59b821ddb058022513b2' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 281063527e03acfeaed4ff4cb1399b839b447ed0406d59b821ddb058022513b2'.
+[05:15:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 35b03063d85b0493673cab5c9772533436e291034fdfd81c5876b0f1235d7464 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:15:29] Waiting for the transaction to be finalized....
+[05:15:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:30:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'b45635e274bbd6e5fe9e43e4c666763fbefd825ce280038cb1ad916389af4656' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b45635e274bbd6e5fe9e43e4c666763fbefd825ce280038cb1ad916389af4656'.
+[05:20:09] Waiting for the transaction to be committed...............
+Transaction is committed into block 7c8f66eec93a5767df87ebbdb6ca841ba95c845527bfeb0eae531c6ca6e3912d with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:20:44] Waiting for the transaction to be finalized.....
+Transaction is finalized into block bbc9ef1668c3eb35830473a92c08a1ad2c945fd1cba595dabb6e16cce338bf98 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:21:06] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:35:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '57e496b2033f9f898fdfd7ae3763ea2a51a06e9ced359fcebd7ca3f19f88f195' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 57e496b2033f9f898fdfd7ae3763ea2a51a06e9ced359fcebd7ca3f19f88f195'.
+[05:25:10] Waiting for the transaction to be committed..........
+Transaction is committed into block a3a45732ab7e898bc84a89ddc79dff8c551087972ed628d409f3e4b51811818f with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:25:29] Waiting for the transaction to be finalized.....
+Transaction is finalized into block 94810b3b574488edb5e2cfe786e5e4574677991c899ef675eae6d856e3a47241 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:25:45] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:40:02 UTC.
+Enter password for signing key: 
+[92mTransaction '870c47acfedd515ac63ef670c9f2a492f0d9de64107d846641eaec02ceab336a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 870c47acfedd515ac63ef670c9f2a492f0d9de64107d846641eaec02ceab336a'.
+[05:30:10] Waiting for the transaction to be committed............
+Transaction is committed into block 5fbfed9d0ab3b18e7b45d1765ac16baeb50341f6623072a00db86db92b27a461 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:30:35] Waiting for the transaction to be finalized........
+[05:31:10] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:45:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'c47961d618158f6435cdd46bff97f1ef50d5de69752f28273d548ee7f8dfe02f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c47961d618158f6435cdd46bff97f1ef50d5de69752f28273d548ee7f8dfe02f'.
+[05:35:10] Waiting for the transaction to be committed..............
+Transaction is committed into block ee7be0875f3b1b29b7233a4b070e540df58aa348fce46c639fe0c0f9bd9e1e3c with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:35:41] Waiting for the transaction to be finalized.....
+[05:35:54] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:50:02 UTC.
+Enter password for signing key: 
+[92mTransaction '56fe7f279b9eaf2745a6554cbab80edb16b3bc7971a112a46a8775355a4bc2be' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 56fe7f279b9eaf2745a6554cbab80edb16b3bc7971a112a46a8775355a4bc2be'.
+[05:40:10] Waiting for the transaction to be committed...........
+Transaction is committed into block 0c122ae6236efeb66d6029e0bf203d56d4170b439a4384c6622bbc35de0ac0b3 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:40:34] Waiting for the transaction to be finalized....
+[05:40:40] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 05:55:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'b6eac1873b5de6a929f90458302dad15972dd7aedc04247b696c53ffe3d43e82' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b6eac1873b5de6a929f90458302dad15972dd7aedc04247b696c53ffe3d43e82'.
+[05:45:09] Waiting for the transaction to be committed......................
+Transaction is committed into block 7365212be65e69526c9b465eef9b90a39e788af41ddd5e6f2c7aaacfa540d53e with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:46:01] Waiting for the transaction to be finalized....
+[05:46:06] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 06:00:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'c9c75f6b437cf58f9ddeb2a044fceaee5444164610d8c9cc8a5ffe4a5ee4fa9e' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c9c75f6b437cf58f9ddeb2a044fceaee5444164610d8c9cc8a5ffe4a5ee4fa9e'.
+[05:50:10] Waiting for the transaction to be committed.............
+Transaction is committed into block 664c3786ae7cc21a08cac4257848c7d18c0873bff3222d3f1f38d9242e3bf971 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:50:38] Waiting for the transaction to be finalized....
+[05:50:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 06:05:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'e1411a281962906482a167ed7200facd948201633d075f00241e7639bcc1345f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status e1411a281962906482a167ed7200facd948201633d075f00241e7639bcc1345f'.
+[05:55:10] Waiting for the transaction to be committed........................
+Transaction is committed into block f98358aa8b2a9c8b58051301042237bbbbfddc696f38d72f60bed2f47eb90be4 with status "success" and cost 3.007000 GTU (30070 NRG).
+[05:56:05] Waiting for the transaction to be finalized.....
+[05:56:26] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction '8fe330dcbb1babcffba7825dde4db64b2f847fc24d29d61cb997db689ff132c1' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 8fe330dcbb1babcffba7825dde4db64b2f847fc24d29d61cb997db689ff132c1'.
+[07:00:10] Waiting for the transaction to be committed..............
+Transaction is committed into block fbdbec9e46fe8f6f6e499c769fc1ec137bc1ef2c46b6341822f94b676225df83 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:00:42] Waiting for the transaction to be finalized....
+Transaction is finalized into block 549b65df89123ea0f2c34b201db6ede39f3551784e87ff11c4ce4cc8ced3ec98 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:00:51] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:15:01 UTC.
+Enter password for signing key: 
+[92mTransaction '23648ba83370b58ce17947026f988fa2a1379109e5b8ce81f2400ccb3a41ce7c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 23648ba83370b58ce17947026f988fa2a1379109e5b8ce81f2400ccb3a41ce7c'.
+[07:05:09] Waiting for the transaction to be committed.........
+Transaction is committed into block 361ddee7ef7e24601a32f5d93f5f9ad9923de32c308af204d3566ae13939482d with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:05:27] Waiting for the transaction to be finalized....
+[07:05:33] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:20:01 UTC.
+Enter password for signing key: 
+[92mTransaction '6d5d86aa7c0b9be50c0be34ebaa8915750f0de5e73da5869bec4be2d6111e6e6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 6d5d86aa7c0b9be50c0be34ebaa8915750f0de5e73da5869bec4be2d6111e6e6'.
+[07:10:09] Waiting for the transaction to be committed......
+Transaction is committed into block dda2660e2e7d338f8b9a9de6744c26bc9a316478b20393ae6abbd8357117fdb6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:10:20] Waiting for the transaction to be finalized....
+[07:10:28] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:25:02 UTC.
+Enter password for signing key: 
+[92mTransaction '977af212dd61c5e87d135d156be7a9329e5d0e90f21c192e4e2c3978d0b74561' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 977af212dd61c5e87d135d156be7a9329e5d0e90f21c192e4e2c3978d0b74561'.
+[07:15:10] Waiting for the transaction to be committed.......
+Transaction is committed into block e73fe387f04401473f1ff86bbad6f192f9fd475053e835f97687b72b37cc45a0 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:15:20] Waiting for the transaction to be finalized....
+[07:15:25] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:30:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'd92ef9139ab617a89cc905bbe97cf7f948f2920daef386fcc97b2da2ba93e690' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status d92ef9139ab617a89cc905bbe97cf7f948f2920daef386fcc97b2da2ba93e690'.
+[07:20:11] Waiting for the transaction to be committed.........
+Transaction is committed into block ecdfe0bd8a3450bb5b80f43c9f197a89a1fe6925b403e2781292cb182a65f00d with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:20:28] Waiting for the transaction to be finalized........
+[07:21:02] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:35:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '3e3241ffb8b223781a6ef6fe51a0e764052a75cdc58dae8a44f00c105163cea9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3e3241ffb8b223781a6ef6fe51a0e764052a75cdc58dae8a44f00c105163cea9'.
+[07:25:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 3d97f9a490b4ca37b94592ebe921105ff19828781a286ca1b99a2d70b1ca6d04 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:25:26] Waiting for the transaction to be finalized........
+[07:26:02] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:40:01 UTC.
+Enter password for signing key: 
+
+[92mTransaction '600923fd8e403258f8c5183cc2f3d986884e8486dba3475678de31d6a327b856' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 600923fd8e403258f8c5183cc2f3d986884e8486dba3475678de31d6a327b856'.
+[07:30:09] Waiting for the transaction to be committed........................
+Transaction is committed into block 45ae9d26e72b686825ab3f91a43f05ef2db2ad2a5a972b71a2a88a59a93f5dd5 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:31:01] Waiting for the transaction to be finalized....
+[07:31:06] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:45:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '53470971b98e10f9c9016793fa3cf51e79b7150c8faa7f7e0c15db67ca3b8eb8' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 53470971b98e10f9c9016793fa3cf51e79b7150c8faa7f7e0c15db67ca3b8eb8'.
+[07:35:10] Waiting for the transaction to be committed......
+Transaction is committed into block c47532a28e92303b61b0e6e926f83b0f3474c7edb182f5ca22b4be39ba69b2c8 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:35:20] Waiting for the transaction to be finalized....
+[07:35:25] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:50:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '3cadd577421adac4c520c9e7d74b17cdcd5479601f40ad4cdf0b00903898318d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 3cadd577421adac4c520c9e7d74b17cdcd5479601f40ad4cdf0b00903898318d'.
+[07:40:10] Waiting for the transaction to be committed..............
+Transaction is committed into block 9fe8cb7e15717120502732cd28ccf2d3a52d7aad6f4b1ecda8fa015d5778ce37 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:40:38] Waiting for the transaction to be finalized....
+[07:40:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 07:55:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'a0824f3bdd9c7e612bd8fecc4994165dec79a33298ced03d45ae8817837e2f71' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a0824f3bdd9c7e612bd8fecc4994165dec79a33298ced03d45ae8817837e2f71'.
+[07:45:10] Waiting for the transaction to be committed...............................
+Transaction is committed into block 8fae06282b7a1e6e69637402a2d918fedf5a854a3559ddd3c85db3f4dc41b1c0 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:46:19] Waiting for the transaction to be finalized.....
+Transaction is finalized into block 21c18933e25e69c181c733bb9a8f1b203f36da715fd41af6e9bfc4e9e04f2c55 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:46:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 08:00:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'a967b49946dc220d8e26a2ba8502dbc524d219dcaf39f2ec89996991bb743839' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a967b49946dc220d8e26a2ba8502dbc524d219dcaf39f2ec89996991bb743839'.
+[07:50:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 46a1f360be9cda3c9f3a1bcb38e85cb28386c4fe13faf87d670d89ad949e4ac6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:50:32] Waiting for the transaction to be finalized........
+Transaction is finalized into block 14e93e8e1634b3480dd9d7997cbe3be62c00ca4354de759508f09ef6f06d8945 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:50:59] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 08:05:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'f75ec0cf270fa4c18cf6e580493c240be421a5a6871ffe5d93a86fe9bad593f0' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f75ec0cf270fa4c18cf6e580493c240be421a5a6871ffe5d93a86fe9bad593f0'.
+[07:55:09] Waiting for the transaction to be committed...................
+Transaction is committed into block 21977de47a5472380f852a35608c45d12f8921f4ed6ce34bb56c1fe8abd08920 with status "success" and cost 3.007000 GTU (30070 NRG).
+[07:55:49] Waiting for the transaction to be finalized....
+[07:55:55] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:10:01 UTC.
+Enter password for signing key: 
+[92mTransaction '4c11bdcebee5dfff88576b3d350cb125e0deff76638185dc1b30e09db48225d6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 4c11bdcebee5dfff88576b3d350cb125e0deff76638185dc1b30e09db48225d6'.
+[09:00:10] Waiting for the transaction to be committed....................
+Transaction is committed into block 2d6c5b603386a588e0b2d46d6be2ecd3a0e578f86452e2f22aa2f2b645bf51b6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:00:55] Waiting for the transaction to be finalized.......
+Transaction is finalized into block a003317d24d546b5e80d18a23f22e90bbf630602bb69bacf6a5201adcd0e7efb with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:01:22] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:15:01 UTC.
+Enter password for signing key: 
+[92mTransaction '1e7f857fb834d518ccef34155e744a51b96d23ebcaff32a66b06c516f3a4ea79' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1e7f857fb834d518ccef34155e744a51b96d23ebcaff32a66b06c516f3a4ea79'.
+[09:05:10] Waiting for the transaction to be committed.........
+Transaction is committed into block ec1b9639073b786e1bd4443523135ff87760750ac9fba5c86ce82e524d0f9a49 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:05:28] Waiting for the transaction to be finalized........
+Transaction is finalized into block 9c5c8d40dd47136b0464dc086368f45bf6e881604c01fcc5db590438d8dd631d with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:06:01] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:20:01 UTC.
+Enter password for signing key: 
+[92mTransaction '0d3470f6ad6d7fae331e8e002e88baee69a05459e46d04ce6eff471b85b287c3' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0d3470f6ad6d7fae331e8e002e88baee69a05459e46d04ce6eff471b85b287c3'.
+[09:10:10] Waiting for the transaction to be committed...................
+Transaction is committed into block 9eb10aa55e9213fc5c7ab61e1ec46c239d58b239660ae1bc4aad4596695acc89 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:10:54] Waiting for the transaction to be finalized....
+[09:10:59] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:25:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '9f48f4dbb317a64ea286447c31e8c966f1f5c234f90f52d83d45f3a569bdbe68' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9f48f4dbb317a64ea286447c31e8c966f1f5c234f90f52d83d45f3a569bdbe68'.
+[09:15:10] Waiting for the transaction to be committed...............
+Transaction is committed into block 4841b9d067dfddcccbb904fe494fbc4b3c23251250f60b2ec46f54e2b247e559 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:15:45] Waiting for the transaction to be finalized.....
+[09:16:06] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:30:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'de3c800ecb7a12a02d38060cbce6d9cf2d5c508e0ee45ddce3a6c366947f5fe7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status de3c800ecb7a12a02d38060cbce6d9cf2d5c508e0ee45ddce3a6c366947f5fe7'.
+[09:20:09] Waiting for the transaction to be committed........
+Transaction is committed into block 8dc440dccb05459820a01a2738d5cf82cbf9d7de943a275c6d833b22dc5c59ad with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:20:24] Waiting for the transaction to be finalized....
+[09:20:31] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:35:02 UTC.
+Enter password for signing key: 
+[92mTransaction '757e8712b3d29073981d12d8d40ebf6f3678bf1931e8fb05f43a7bcd43ed22e9' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 757e8712b3d29073981d12d8d40ebf6f3678bf1931e8fb05f43a7bcd43ed22e9'.
+[09:25:10] Waiting for the transaction to be committed...........
+Transaction is committed into block 603b1c13da11412671f07b748555f62e5a223a3b569042db8b9a7ac3a3815e2a with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:25:34] Waiting for the transaction to be finalized....
+[09:25:39] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:40:01 UTC.
+Enter password for signing key: 
+[92mTransaction '2b1e9491695c04fa3578cd41b41160ecac8fe8a344222969f9fe60c55a36e50d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2b1e9491695c04fa3578cd41b41160ecac8fe8a344222969f9fe60c55a36e50d'.
+[09:30:10] Waiting for the transaction to be committed........
+Transaction is committed into block ec5078352b47a86c410e499465c2e1f33e952602b3f9894f758fae3ca5c457bb with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:30:24] Waiting for the transaction to be finalized....
+[09:30:29] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:45:01 UTC.
+Enter password for signing key: 
+[92mTransaction '89e9be1700e696f932b6d74ac41af71b9e5ce883967cf5effeb2916cf638b48b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 89e9be1700e696f932b6d74ac41af71b9e5ce883967cf5effeb2916cf638b48b'.
+[09:35:10] Waiting for the transaction to be committed......
+Transaction is committed into block 12d571a1b859160ed6c0f0d07d321f77fb7cbaf261d54548b19b69781e951588 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:35:20] Waiting for the transaction to be finalized....
+[09:35:26] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:50:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '7c9529b314459bca417cfff1693551869bf3d2b33cdc6f5ca5b1ee4845b64268' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7c9529b314459bca417cfff1693551869bf3d2b33cdc6f5ca5b1ee4845b64268'.
+[09:40:09] Waiting for the transaction to be committed.......
+Transaction is committed into block 1663fce3d5ea62dcb528379703f70f24eed053adfe420d316308781a875b4ffe with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:40:23] Waiting for the transaction to be finalized....
+[09:40:29] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 09:55:01 UTC.
+Enter password for signing key: 
+[92mTransaction '815ce61a5de1fa6da99ddf978622b6f93e1d8afb5ddcca7a88b2ed1a720a958c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 815ce61a5de1fa6da99ddf978622b6f93e1d8afb5ddcca7a88b2ed1a720a958c'.
+[09:45:10] Waiting for the transaction to be committed...........
+Transaction is committed into block 1ab42d6d92a3c95d465b244caad72240836b60a731188a9e1251fc37e856f5f8 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:45:36] Waiting for the transaction to be finalized.....
+[09:45:52] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 10:00:01 UTC.
+Enter password for signing key: 
+[92mTransaction '45a0cb94315540b6bb7cf1707f53e8699b2b9c3547b75539d46799974f623d69' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 45a0cb94315540b6bb7cf1707f53e8699b2b9c3547b75539d46799974f623d69'.
+[09:50:09] Waiting for the transaction to be committed............
+Transaction is committed into block e477deaa4212be07fc3a7d562fa95dee436f665b9fcbd3b625ddc6abf27efba9 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:50:34] Waiting for the transaction to be finalized....
+[09:50:39] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 10:05:02 UTC.
+Enter password for signing key: 
+[92mTransaction '6d182ea442688483d921cd35b5b21ee43a6d857af87cdae6d109917911132892' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 6d182ea442688483d921cd35b5b21ee43a6d857af87cdae6d109917911132892'.
+[09:55:11] Waiting for the transaction to be committed...................
+Transaction is committed into block 8e5e741d2d3093d6de808b82fc74054d44a605efa1d4173cab5dd7739864d091 with status "success" and cost 3.007000 GTU (30070 NRG).
+[09:55:52] Waiting for the transaction to be finalized.....
+[09:56:04] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:10:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'f59defd2a6ebc90b2e8ea037271b24f93aae6c6e9d0cdd288bb96e1c70eb4520' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f59defd2a6ebc90b2e8ea037271b24f93aae6c6e9d0cdd288bb96e1c70eb4520'.
+[11:00:09] Waiting for the transaction to be committed..........
+Transaction is committed into block 7d13a1fd232b4246cf197185dc51c314a0197ba73299c86414729100c7386441 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:00:30] Waiting for the transaction to be finalized....
+[11:00:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:15:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction '4c8affce0ca9335a198e8f4760a4e005a45861f8ff6de3b19ae252b56dfeb9e6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 4c8affce0ca9335a198e8f4760a4e005a45861f8ff6de3b19ae252b56dfeb9e6'.
+[11:05:10] Waiting for the transaction to be committed.................
+Transaction is committed into block 7b7447d35a0590e913e75a5b7165b4ec069e6a28332857f7513a3c2eeebcbcd0 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:05:48] Waiting for the transaction to be finalized....
+[11:05:54] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:20:01 UTC.
+Enter password for signing key: 
+[92mTransaction '733501852ab1fbb1ee33524ed9b5729d92e3d64ef5b30fb71586d632b38423ff' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 733501852ab1fbb1ee33524ed9b5729d92e3d64ef5b30fb71586d632b38423ff'.
+[11:10:10] Waiting for the transaction to be committed............
+Transaction is committed into block 26171412b5108e9a4b86faaec186fc1644cc381e85e522808156ac378aed053b with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:10:36] Waiting for the transaction to be finalized....
+[11:10:41] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:25:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '0571fda92b8f3573b9f5aedd86546b144817010f5f4c77908be48f929e30a842' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0571fda92b8f3573b9f5aedd86546b144817010f5f4c77908be48f929e30a842'.
+[11:15:10] Waiting for the transaction to be committed..........
+Transaction is committed into block 73aa9db722f3aa88cd66c1c8c306dc7a80791441fad60046c822c44379de9383 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:15:31] Waiting for the transaction to be finalized...
+[11:15:31] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:30:01 UTC.
+Enter password for signing key: 
+[92mTransaction '5b60dffd1d7338137db3db61e0a08b5fa7ce199544e61f2a698e1d03e1d6382f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 5b60dffd1d7338137db3db61e0a08b5fa7ce199544e61f2a698e1d03e1d6382f'.
+[11:20:09] Waiting for the transaction to be committed..........
+Transaction is committed into block 0011e8a2c60b2f5669474fce5a9cfd4449342eeb0b7ab6e3d08daf935ff17bac with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:20:31] Waiting for the transaction to be finalized....
+[11:20:38] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:35:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '0c991bc027c58974f2a73bbffca786628edf3d55b11eb2812a126b3e40a4d922' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0c991bc027c58974f2a73bbffca786628edf3d55b11eb2812a126b3e40a4d922'.
+[11:25:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 7bdcecc1775e8947484e301b3e65ce8e30ede55be57fdf98eb40f84fed543ce6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:25:29] Waiting for the transaction to be finalized.....
+[11:25:46] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:40:01 UTC.
+Enter password for signing key: 
+[92mTransaction '721396bb250da81ed4af514d19668e28fc4f7ab565b089bdd92dcdbaebfa2860' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 721396bb250da81ed4af514d19668e28fc4f7ab565b089bdd92dcdbaebfa2860'.
+[11:30:10] Waiting for the transaction to be committed.......
+Transaction is committed into block 4cd2c7bfc85eaf531979df6b23b23158ae392e43c3de1c913b1fa825a0f90ff5 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:30:23] Waiting for the transaction to be finalized....
+[11:30:28] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:45:02 UTC.
+Enter password for signing key: 
+[92mTransaction '2466e59e711f160b1d1834444ea9d2d64218866c2042fbaf0911ed78ebfaec43' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2466e59e711f160b1d1834444ea9d2d64218866c2042fbaf0911ed78ebfaec43'.
+[11:35:10] Waiting for the transaction to be committed..........
+Transaction is committed into block 6e9e51f943d3a57c5b9b078b6c46a1f06685b3dbc25c08b7c42ed493b19fac73 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:35:31] Waiting for the transaction to be finalized....
+Transaction is finalized into block f02fb92384e7fba87acea7c353f1a80f3790de046129d9e28fdb1700f1fec01a with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:35:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:50:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'ce18c4c60367cea8e435ef76e80c23bb6d3c6ac11ae82378f46fc2fd9706e77a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ce18c4c60367cea8e435ef76e80c23bb6d3c6ac11ae82378f46fc2fd9706e77a'.
+[11:40:10] Waiting for the transaction to be committed.........
+Transaction is committed into block b3e47bdcf8a4aa84a896d7fe667efebace674979f9eab8f0958cf7298c76cd44 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:40:28] Waiting for the transaction to be finalized....
+[11:40:34] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 11:55:01 UTC.
+Enter password for signing key: 
+[92mTransaction '2615c30d6343c5bcafda3bb41dbf3c3e427b9f052bf08775b269ae1ef72d48a6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2615c30d6343c5bcafda3bb41dbf3c3e427b9f052bf08775b269ae1ef72d48a6'.
+[11:45:10] Waiting for the transaction to be committed............
+Transaction is committed into block ee932dc800d409bca36d637286011548b263acaf657a8584f6666b7121ec68a6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:45:36] Waiting for the transaction to be finalized....
+[11:45:42] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 12:00:01 UTC.
+Enter password for signing key: 
+[92mTransaction '2c1910e0e46a1d2b5d3b0456399c699a7d15ad662f2c04212804cdb00b3aea4c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2c1910e0e46a1d2b5d3b0456399c699a7d15ad662f2c04212804cdb00b3aea4c'.
+[11:50:09] Waiting for the transaction to be committed....................
+Transaction is committed into block 2175094d9ea10efede0208a62c96979e9339f4304ad7202b8b655ef90e83dbbe with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:50:56] Waiting for the transaction to be finalized........
+[11:51:34] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 12:05:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'aa1d54766b3d856e8e2dd0d1a2052a18f36be6330858bfa5b5267dfd0f430cf4' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status aa1d54766b3d856e8e2dd0d1a2052a18f36be6330858bfa5b5267dfd0f430cf4'.
+[11:55:09] Waiting for the transaction to be committed................
+Transaction is committed into block 8b0a7a290a7fcb6b3320151afd2f68ada5d3644a2aae35c9b296187dd289b8d4 with status "success" and cost 3.007000 GTU (30070 NRG).
+[11:55:46] Waiting for the transaction to be finalized.....
+[11:56:07] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:10:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'fe2057215b0830d2cdbc8387ea304b8a31e85127cda89fd6dab324bb85e2803a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status fe2057215b0830d2cdbc8387ea304b8a31e85127cda89fd6dab324bb85e2803a'.
+[13:00:10] Waiting for the transaction to be committed.........
+Transaction is committed into block b7a9efe648ab581bf637827eb6c7431afc06ccd1632d27f2545efddd28c829a6 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:00:27] Waiting for the transaction to be finalized......
+[13:00:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:15:02 UTC.
+Enter password for signing key: 
+[92mTransaction '99ee362e5350500e9b69b010bd7f6bc08c6b64facd37a047a1533ed3d1dbd942' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 99ee362e5350500e9b69b010bd7f6bc08c6b64facd37a047a1533ed3d1dbd942'.
+[13:05:10] Waiting for the transaction to be committed.......
+Transaction is committed into block 733a6d2365e6ad9b9c9bd18885ca739ac42618f048bf8abca94d8d771f7391f9 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:05:22] Waiting for the transaction to be finalized....
+[13:05:28] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:20:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'de9d4790739d14e8acbcbaa283a0ccdf7b40d180d852b176ebb9ea500289d58c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status de9d4790739d14e8acbcbaa283a0ccdf7b40d180d852b176ebb9ea500289d58c'.
+[13:10:09] Waiting for the transaction to be committed...........
+Transaction is committed into block 469256ac5c35ac70044e8e28bfc799715ba743ee998297800e28c827772f1973 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:10:30] Waiting for the transaction to be finalized.....
+[13:10:42] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:25:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'e86e2555836c984aa46f7d7f8bcc891d068d66d25f48d7eb9ccde820d76da812' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status e86e2555836c984aa46f7d7f8bcc891d068d66d25f48d7eb9ccde820d76da812'.
+[13:15:10] Waiting for the transaction to be committed.....................
+Transaction is committed into block 040622d3dc1ddd4c0a9217979d72504bf2f940deb4a5872f9a2dc4cc1584f42a with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:15:55] Waiting for the transaction to be finalized...............
+[13:16:59] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:30:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'f23fe036d70742d02d566eb6628d3d2de31f47a39ea7e6cfdc7da8820fcc2006' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f23fe036d70742d02d566eb6628d3d2de31f47a39ea7e6cfdc7da8820fcc2006'.
+[13:20:11] Waiting for the transaction to be committed.............
+Transaction is committed into block f2b8304d8c8db1e70fe4a1f7ac6590addbc7ddafbf483512b656adb74360e58f with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:20:38] Waiting for the transaction to be finalized....
+[13:20:44] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:35:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'b9cbf45472b23551b42bde76cc61d56e72267ee035b53ba9390a381997a1580b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status b9cbf45472b23551b42bde76cc61d56e72267ee035b53ba9390a381997a1580b'.
+[13:25:10] Waiting for the transaction to be committed...........
+Transaction is committed into block 60863d5933d0d6f837698f5ed9f7ad29b1dc587136adbd0be1b2a7f4c4e6e2d4 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:25:32] Waiting for the transaction to be finalized....
+[13:25:37] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:40:01 UTC.
+Enter password for signing key: 
+[92mTransaction '106dd42d6834c3774c023514ab8c555ce6172ab6a79b6a748b6db3c7edd97847' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 106dd42d6834c3774c023514ab8c555ce6172ab6a79b6a748b6db3c7edd97847'.
+[13:30:10] Waiting for the transaction to be committed..........
+Transaction is committed into block e2d0609431746f9e01353313a959bb6650f67f7e01f003b371854b1f079f5a70 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:30:27] Waiting for the transaction to be finalized....
+[13:30:33] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:45:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'ab510c0c2077af8876b723310962705c992afb0568d3563b0d4342695d8c1fd6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ab510c0c2077af8876b723310962705c992afb0568d3563b0d4342695d8c1fd6'.
+[13:35:10] Waiting for the transaction to be committed.........
+Transaction is committed into block a8300118fa9dfc31d0f6c8db93b2b88195a8250974e7b8623b5896af9299ff59 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:35:27] Waiting for the transaction to be finalized....
+[13:35:32] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:50:02 UTC.
+Enter password for signing key: 
+[92mTransaction '9ef27d4effcf97d17a30ed392e3babd85206cdd830aa3b74a86b0c962189a878' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9ef27d4effcf97d17a30ed392e3babd85206cdd830aa3b74a86b0c962189a878'.
+[13:40:10] Waiting for the transaction to be committed......
+Transaction is committed into block bd8c5fc146d7d38b7571a187ad6855f3defc7a8c1f32aeef496f265b7ba03b00 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:40:19] Waiting for the transaction to be finalized....
+[13:40:25] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 13:55:01 UTC.
+Enter password for signing key: 
+[92mTransaction '0a221d4573bbb8919e884c61016b8c339239376c55483e4fa4d0461d066940e1' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 0a221d4573bbb8919e884c61016b8c339239376c55483e4fa4d0461d066940e1'.
+[13:45:09] Waiting for the transaction to be committed.......
+Transaction is committed into block 65b80b36371aa7bd07c56433d6b926600ac1c094ec4af9e49e1cdcd8fc47afc2 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:45:23] Waiting for the transaction to be finalized.....
+[13:45:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 14:00:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'cb669d92f3c0c2260b18b3d7ba33b903137426b6acb75a937ae9ff6bf1f448f1' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status cb669d92f3c0c2260b18b3d7ba33b903137426b6acb75a937ae9ff6bf1f448f1'.
+[13:50:09] Waiting for the transaction to be committed................
+Transaction is committed into block 0bb75c0ada28a72f5d4a3590e8a13708b9ec653ca95391431c777030b013205c with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:50:42] Waiting for the transaction to be finalized.....
+[13:50:57] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 14:05:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'be22f2ec6b307883d9bd8d20713584da564252853f1a3ea55722b211534d15de' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status be22f2ec6b307883d9bd8d20713584da564252853f1a3ea55722b211534d15de'.
+[13:55:10] Waiting for the transaction to be committed.......
+Transaction is committed into block f902ac0fe7b98071548f9323ed4dea452b3e64e03ca2ef3d90c51f5b40d9acb3 with status "success" and cost 3.007000 GTU (30070 NRG).
+[13:55:23] Waiting for the transaction to be finalized.......
+[13:55:44] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction '7d427f5dd49ec600074e59a75274198750bcdda931e68e180d4c54e7d0c27ffb' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7d427f5dd49ec600074e59a75274198750bcdda931e68e180d4c54e7d0c27ffb'.
+[15:00:10] Waiting for the transaction to be committed............
+Transaction is committed into block 134ead3de8f84b8b293ff1f143defff18cbff4ab1d65fa38fcbbd4182d88d0e8 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:00:36] Waiting for the transaction to be finalized....
+[15:00:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:15:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'eca6e511f03fa0f4609aaa35be1bc806b86d2cc56129837296722c92641cffb2' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status eca6e511f03fa0f4609aaa35be1bc806b86d2cc56129837296722c92641cffb2'.
+[15:05:10] Waiting for the transaction to be committed.......
+Transaction is committed into block f6e2c422ad8513f90279a3c17a503c2f90c4c54bb86cfb8224a48932f5404f99 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:05:21] Waiting for the transaction to be finalized.....
+[15:05:36] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:20:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'be4ee3077bb4419bc410d1d5d8cbcf81ff062dc90d6eba22255a01a8c27944c6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status be4ee3077bb4419bc410d1d5d8cbcf81ff062dc90d6eba22255a01a8c27944c6'.
+[15:10:10] Waiting for the transaction to be committed...........
+Transaction is committed into block 19c6da40722ca061277d9aa2d397ecf4e5d8151a5ce1db89527d67b1b9747cd9 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:10:33] Waiting for the transaction to be finalized.......
+[15:10:57] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:25:01 UTC.
+Enter password for signing key: 
+[92mTransaction '6403bdae937a1aea8e95e32bb082dcbb4c67dae4550fdbc2a2b132eebe84e181' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 6403bdae937a1aea8e95e32bb082dcbb4c67dae4550fdbc2a2b132eebe84e181'.
+[15:15:09] Waiting for the transaction to be committed..................
+Transaction is committed into block 37556ccd24d0a9cece2762feb86973e3c2db25ff9fca3807bbc9df55b7a4f15a with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:15:45] Waiting for the transaction to be finalized....
+[15:15:51] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:30:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'cca00a5cd08c3678970e15077271fb1184bb3c0ae3d813988b2d915c10d9e240' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status cca00a5cd08c3678970e15077271fb1184bb3c0ae3d813988b2d915c10d9e240'.
+[15:20:09] Waiting for the transaction to be committed.......
+Transaction is committed into block fe7b5a6840b0917d669c9a188dd227b5656f73388afc6ec51d5024a42f6fd471 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:20:22] Waiting for the transaction to be finalized.....
+[15:20:36] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:35:02 UTC.
+Enter password for signing key: 
+[92mTransaction '543a61e8517306edd404dce4af99293c56a2c4456f98a743b149c06c738b64fe' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 543a61e8517306edd404dce4af99293c56a2c4456f98a743b149c06c738b64fe'.
+[15:25:10] Waiting for the transaction to be committed.........
+Transaction is committed into block b78fbaa408e7a4f5b0f054daaf134bf6a5fc962202ff3d64c8b055f56fb433fb with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:25:27] Waiting for the transaction to be finalized....
+[15:25:33] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:40:01 UTC.
+Enter password for signing key: 
+[92mTransaction '545a14bc4e651be998f37900766fed1896a1ff018f9f2711e5c5b708362f721b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 545a14bc4e651be998f37900766fed1896a1ff018f9f2711e5c5b708362f721b'.
+[15:30:09] Waiting for the transaction to be committed......
+Transaction is committed into block bb851216fddd25409bba0ca614687f4e4a52afacc2ff8c58c16fbf977548dbdb with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:30:20] Waiting for the transaction to be finalized.......
+[15:30:44] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:45:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'd25c65d7836edf943c34ce68f7127ba5ec0e0875727c7dfdc8f931d36328bc89' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status d25c65d7836edf943c34ce68f7127ba5ec0e0875727c7dfdc8f931d36328bc89'.
+[15:35:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 0a0246f1c4a5b5c5ddfee637bfc9edb5468c9a6275442ac2d940f171de1cd1c3 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:35:26] Waiting for the transaction to be finalized....
+[15:35:32] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:50:01 UTC.
+Enter password for signing key: 
+[92mTransaction '72e8d33417f949d49bb31dff29c02df618d67cc169ea23d4ae75a700952044b4' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 72e8d33417f949d49bb31dff29c02df618d67cc169ea23d4ae75a700952044b4'.
+[15:40:11] Waiting for the transaction to be committed.........
+Transaction is committed into block d91dd8c6b4112e34269fd4cb32e684fc28a88a9a0b8854c1960ec9bcf354719b with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:40:26] Waiting for the transaction to be finalized......
+[15:40:42] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 15:55:01 UTC.
+Enter password for signing key: 
+
+[92mTransaction '9514cfa66c62cd63e0ac0d6e51039459f4b891ee7b814516b318946741906dbc' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9514cfa66c62cd63e0ac0d6e51039459f4b891ee7b814516b318946741906dbc'.
+[15:45:10] Waiting for the transaction to be committed......
+Transaction is committed into block add3eb597349afca5a3c1caa8e3d7540fbc038572dc43fda7400a3b619a178fa with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:45:18] Waiting for the transaction to be finalized......
+[15:45:36] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 16:00:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'a2b5610b8afcb120dc73028f463bf14b2b462785f0c4d43c3426d200821c7696' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a2b5610b8afcb120dc73028f463bf14b2b462785f0c4d43c3426d200821c7696'.
+[15:50:10] Waiting for the transaction to be committed.........
+Transaction is committed into block c1979c02a224f2372c9dc4944b5043cdfc3a60dacbfd0d9a825e0e4a81c3c1b2 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:50:27] Waiting for the transaction to be finalized.....
+[15:50:38] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 16:05:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'a26e058ee4301f19aef4e22798363b0451934abcde9adfd7392ca53c126133da' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a26e058ee4301f19aef4e22798363b0451934abcde9adfd7392ca53c126133da'.
+[15:55:10] Waiting for the transaction to be committed........
+Transaction is committed into block 4660eba6faa569c179ff4ffea163598c296dab8607bf68c9af6bc2064bc351d1 with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:55:23] Waiting for the transaction to be finalized.....
+Transaction is finalized into block f8f11c30b0e02775c64edfe9f9c21aa0cc53e1e1a97e38823b17efa1e4fe718e with status "success" and cost 3.007000 GTU (30070 NRG).
+[15:55:37] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:10:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'f91828ac842e568ef37a23caa964b3afa8ea135834f9e86b27f5eed944dd368a' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f91828ac842e568ef37a23caa964b3afa8ea135834f9e86b27f5eed944dd368a'.
+[17:00:10] Waiting for the transaction to be committed.....................
+Transaction is committed into block c54b92c904b6607ac6f33381adf1bcc9bafa4061771766ee3f1da19b62841bbc with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:00:58] Waiting for the transaction to be finalized....
+[17:01:03] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:15:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'bf28aea1aa26e1173d8a19bbd70a5bfe922e637c2465b458833c64d7dd1e98ef' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status bf28aea1aa26e1173d8a19bbd70a5bfe922e637c2465b458833c64d7dd1e98ef'.
+[17:05:10] Waiting for the transaction to be committed............
+Transaction is committed into block 85d9cf5b8a2341d9ab4cf2c1929d3340b24f073706eca2db21be2192a296b0d2 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:05:32] Waiting for the transaction to be finalized....
+[17:05:41] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:20:01 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'e5a24bdabda55292e0eca3a882cc38573a14f540de3a526e3d8d49ed1ece1d41' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status e5a24bdabda55292e0eca3a882cc38573a14f540de3a526e3d8d49ed1ece1d41'.
+[17:10:09] Waiting for the transaction to be committed..........
+Transaction is committed into block baad3308491229fba7c9b925270be933190b4c3a83732b2830fdfc1331f054df with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:10:30] Waiting for the transaction to be finalized....
+[17:10:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:25:02 UTC.
+[93mWarning: There is a pending transaction with nonce 774, but last committed one has 715.
+         This transaction will have nonce 775 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction 'c28c72a7d032bf08653cce358e8c961a298f637f2549c9038e29cf18261f05f7' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c28c72a7d032bf08653cce358e8c961a298f637f2549c9038e29cf18261f05f7'.
+[17:15:10] Waiting for the transaction to be committed....................................
+Transaction is committed into block 33a3af9ac4aa8d453c51bff52c4f5e90e3f59104e1cc31a4010f1a956945e7fd with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:16:32] Waiting for the transaction to be finalized........
+[17:17:03] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:30:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '9e66f80168256b90f3c5acc06d98709db63af44d59d112827d29bab7ce1ca854' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9e66f80168256b90f3c5acc06d98709db63af44d59d112827d29bab7ce1ca854'.
+[17:20:09] Waiting for the transaction to be committed..............
+Transaction is committed into block b85982e1e357a9cadd27d4ae175da11e5f7c4f0fd385d5a0100bb80fc7ab4572 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:20:38] Waiting for the transaction to be finalized....
+[17:20:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:35:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '2caa213b6837408f23bb6aeab5b2430ba19653347c80b39d83998a4852e6682f' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 2caa213b6837408f23bb6aeab5b2430ba19653347c80b39d83998a4852e6682f'.
+[17:25:10] Waiting for the transaction to be committed..................
+Transaction is committed into block b9f1731031ef4a34f4ccec7b596e64608edf608f20b47402012997c2772cefa4 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:25:48] Waiting for the transaction to be finalized......
+[17:26:08] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:40:02 UTC.
+Enter password for signing key: 
+[92mTransaction '17710328748bb41e6e19f994e27e9ededfdf9a9d64f77b02596faa6ddcb9ef18' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 17710328748bb41e6e19f994e27e9ededfdf9a9d64f77b02596faa6ddcb9ef18'.
+[17:30:10] Waiting for the transaction to be committed............
+Transaction is committed into block 56fefc626efe1c8cb58732cf89891abee0669abe2afcac5ddccbb35972980612 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:30:35] Waiting for the transaction to be finalized....
+[17:30:41] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:45:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'f93539a0879cc3c8644ea1c8e09c9b8205057a5d0fa5416e12791cf6c914e1cf' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status f93539a0879cc3c8644ea1c8e09c9b8205057a5d0fa5416e12791cf6c914e1cf'.
+[17:35:10] Waiting for the transaction to be committed.........................
+Transaction is committed into block dee4a90162f55d3fed45991671e3cf1418dd93a043f647af3819c8aa5dd812b1 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:36:02] Waiting for the transaction to be finalized...
+[17:36:02] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:50:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'd027393e260cb6812fbc260b06e6bb0629cbc3da9a341d8190d57021fd10bc0c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status d027393e260cb6812fbc260b06e6bb0629cbc3da9a341d8190d57021fd10bc0c'.
+[17:40:10] Waiting for the transaction to be committed.........
+Transaction is committed into block 16a10911efb97696a3b04263791e237761af2b5b086ef2b0065d13fa1b8f68cd with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:40:26] Waiting for the transaction to be finalized....
+[17:40:32] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 17:55:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction 'ab6ff1ab3d87ef2b5214c11915854fa65ebdd0818c8ab6f19992167407e5b7bb' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ab6ff1ab3d87ef2b5214c11915854fa65ebdd0818c8ab6f19992167407e5b7bb'.
+[17:45:10] Waiting for the transaction to be committed...............
+Transaction is committed into block f210de04374ee6fb1132d7a97bd6d3f3481af63f2fcf4df212855251cb0a3ed8 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:45:39] Waiting for the transaction to be finalized....
+[17:45:44] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 18:00:02 UTC.
+Enter password for signing key: 
+
+[92mTransaction 'c5d599e25220c115e67073b8449d8b1feb8f70d41604b899df335cc6fe0ec9bd' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status c5d599e25220c115e67073b8449d8b1feb8f70d41604b899df335cc6fe0ec9bd'.
+[17:50:10] Waiting for the transaction to be committed...................
+Transaction is committed into block 1ce79f2d940faac1b03c4f9321220ac5b1016a20c1771bfe466b18bfee1c0ef5 with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:50:52] Waiting for the transaction to be finalized....
+[17:50:58] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key:
+ 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 18:05:01 UTC.
+Enter password for signing key: 
+[92mTransaction '00fa458a0fc8d869294fc058f3e40280a5767dcfa3fe790f539b00cabce732f6' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 00fa458a0fc8d869294fc058f3e40280a5767dcfa3fe790f539b00cabce732f6'.
+[17:55:09] Waiting for the transaction to be committed.......
+Transaction is committed into block 18eb8bb1ff24b289a5a832cb175df851d68df9b68df175eef8782e0e4dc1035d with status "success" and cost 3.007000 GTU (30070 NRG).
+[17:55:19] Waiting for the transaction to be finalized....
+[17:55:24] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:10:02 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '7c151f03c6c6d7ac727278379c7bfee24b899770f60cdd006f4d4bfa6a936b9c' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 7c151f03c6c6d7ac727278379c7bfee24b899770f60cdd006f4d4bfa6a936b9c'.
+[19:00:10] Waiting for the transaction to be committed..........
+Transaction is committed into block 9470279b620d1cdb6e5f568173b021305cf11bb5b80b1d61ec9de2ce433b66c4 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:00:31] Waiting for the transaction to be finalized....
+[19:00:37] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:15:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '9792428a176d61b71dd70328339b8ed7d1bf2ff01212eeceb8cfe59a6f2e0181' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 9792428a176d61b71dd70328339b8ed7d1bf2ff01212eeceb8cfe59a6f2e0181'.
+[19:05:09] Waiting for the transaction to be committed.......
+Transaction is committed into block 1dea7f2cab52cdf27b44ea2fc696bf73a645c87c086824eaec9e90c1cefdbc9b with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:05:23] Waiting for the transaction to be finalized....
+[19:05:28] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:20:01 UTC.
+Enter password for signing key: 
+[92mTransaction '053a5f619d9aaaa9dcabefc6e91424b7632cc77d6905f248d309795903746279' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 053a5f619d9aaaa9dcabefc6e91424b7632cc77d6905f248d309795903746279'.
+[19:10:09] Waiting for the transaction to be committed........
+Transaction is committed into block f8d4b737ed7e7d839a2069c9c16a9e974f30033a1071f88ef3f90832877b3675 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:10:25] Waiting for the transaction to be finalized..........
+[19:11:04] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:25:01 UTC.
+[93mWarning: There is a pending transaction with nonce 1028, but last committed one has 929.
+         This transaction will have nonce 1029 and might hang if the pending transaction fails.
+[0mEnter password for signing key: 
+[92mTransaction '1ecd365e10644373731e0c50c3f36eb6a555ae83b9dfdf2b6f934134f0b97507' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1ecd365e10644373731e0c50c3f36eb6a555ae83b9dfdf2b6f934134f0b97507'.
+[19:15:10] Waiting for the transaction to be committed...............................
+Transaction is committed into block cb34102c5443b674c6154bb935617acfc05b5dff37f426df8ae5d74aebe5f74d with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:16:31] Waiting for the transaction to be finalized................
+Transaction is finalized into block 234f5eb782df83f6791798e4614bd13957fbc8d86c78740005c137cee33f481d with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:17:48] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:30:01 UTC.
+Enter password for signing key:
+ 
+[92mTransaction '612c9364813cf40c5f71c4f3d4ff9fc509ec45753265239e1a81e7d4ae265657' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 612c9364813cf40c5f71c4f3d4ff9fc509ec45753265239e1a81e7d4ae265657'.
+[19:20:09] Waiting for the transaction to be committed...........
+Transaction is committed into block cfe25f4aadc503c8c40ddff35b552b0011561bab366968504f1e717dde4bd70b with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:20:32] Waiting for the transaction to be finalized....
+[19:20:38] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:35:01 UTC.
+Enter password for signing key: 
+[92mTransaction '1ffa54c425fd951e2dfa6d154effdd4c72c5ff36cc336a1a047bd90fdb09a3d5' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1ffa54c425fd951e2dfa6d154effdd4c72c5ff36cc336a1a047bd90fdb09a3d5'.
+[19:25:09] Waiting for the transaction to be committed..............
+Transaction is committed into block 47244a4e44f46470d3df99b5a8df7d6ca6f9531ce4e1756ec0ca0e5e493dd2ca with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:25:38] Waiting for the transaction to be finalized....
+[19:25:43] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:40:02 UTC.
+Enter password for signing key: 
+[92mTransaction '78f6a78aa11981b3801309fa38cf9d06d08a64a3d4f452564a73d22ad58ecb2d' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 78f6a78aa11981b3801309fa38cf9d06d08a64a3d4f452564a73d22ad58ecb2d'.
+[19:30:10] Waiting for the transaction to be committed........
+Transaction is committed into block 6003d0185115f7bc4b7e1cea93096cfc1bbf33f5792e134aad3dfda57fc26e55 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:30:25] Waiting for the transaction to be finalized....
+[19:30:30] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:45:02 UTC.
+Enter password for signing key: 
+[92mTransaction '1760fafb700f3b6e391de7e0628ac9dfa087a3957ba3800eb083ac2f8b5f08e8' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 1760fafb700f3b6e391de7e0628ac9dfa087a3957ba3800eb083ac2f8b5f08e8'.
+[19:35:10] Waiting for the transaction to be committed........
+Transaction is committed into block 2162e1e40cb92d00a378558aebf7393506f5d69b08e98d9e7c8738ff132eba76 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:35:25] Waiting for the transaction to be finalized....
+[19:35:30] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:50:02 UTC.
+Enter password for signing key: 
+[92mTransaction 'daa1fb74a5b1aae5861bec9621c95df87af09856c38628fe23ef4e9610afce4e' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status daa1fb74a5b1aae5861bec9621c95df87af09856c38628fe23ef4e9610afce4e'.
+[19:40:11] Waiting for the transaction to be committed..............
+Transaction is committed into block d595b8ca63465bd3ec93b4458db40f6759b0f8e9bdb11ab5a2655f09eca4e469 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:40:40] Waiting for the transaction to be finalized..........
+[19:41:18] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 19:55:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'a83aeb44dd46546992c7b2458142d1eced248ed2c9a87aaf2a260d609c96af7b' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status a83aeb44dd46546992c7b2458142d1eced248ed2c9a87aaf2a260d609c96af7b'.
+[19:45:10] Waiting for the transaction to be committed........
+Transaction is committed into block 6b4de02a6b0eec3d44adb9c710f9d8c82d3f4a2b61b72aff40d5267239256578 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:45:23] Waiting for the transaction to be finalized.....
+[19:45:33] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 20:00:02 UTC.
+Enter password for signing key: 
+[92mTransaction '62de04d552f927199869aa9ffa9b1aa6b3f75c1fb7262cc10375f78c66e7bbfe' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status 62de04d552f927199869aa9ffa9b1aa6b3f75c1fb7262cc10375f78c66e7bbfe'.
+[19:50:10] Waiting for the transaction to be committed..........
+Transaction is committed into block cdaa3cdfa8f00c8da31bc88ff916d74e39df2ad0db3261d572ec7738e90e72e3 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:50:29] Waiting for the transaction to be finalized....
+[19:50:35] Transaction finalized.
+spawn ./concordium-client --grpc-ip 127.0.0.01 --grpc-port 10000 transaction send-gtu-encrypted --receiver 3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP --amount 0.1 --sender 3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc --no-confirm
+Using default energy amount of 30070 NRG.
+Enter password for decrypting the secret encryption key: 
+Transferring 0.100000 GTU from encrypted balance of account '3hG2SNwEKkT5pRe6mGgPMowkCTgjbtJUJj5UPaTxnjfSYhsQQc' (Lcofjurn) to '3QhuD1T16FeNQbFDskqSYBcTF5sR3zaMJ3rxVLFCDeqnf9JJbP'.
+Allowing up to 30070 NRG to be spent as transaction fee.
+Transaction expires at Thu, 11 Feb 2021 20:05:01 UTC.
+Enter password for signing key: 
+[92mTransaction 'ea01f898f68cdeeb39b5cff819b58f2af92e16ebd14798cd5b12d077c49ddd82' sent to the baker.
+[0mWaiting for the transaction to be committed and finalized.
+You may skip this step by interrupting the command using Ctrl-C (pass flag '--no-wait' to do this by default).
+The transaction will still get processed and may be queried using
+  'transaction status ea01f898f68cdeeb39b5cff819b58f2af92e16ebd14798cd5b12d077c49ddd82'.
+[19:55:10] Waiting for the transaction to be committed........
+Transaction is committed into block 167cb6a9999bcc863e0cefdcee1007d59a61b1bccbf1001a86eea2c45ca10910 with status "success" and cost 3.007000 GTU (30070 NRG).
+[19:55:23] Waiting for the transaction to be finalized....
+[19:55:29] Transaction finalized.
