@@ -5,7 +5,7 @@ For B1+B2/B3/B4 challenges, proof of runtime via logs is required.
 
 There is fairly verbose logging enabled by default for the node software in Testnets, so we've created a small tool `retrieve_minified_logs` to sample your full set of log files and output a summary that is acceptable for submission.
 
-- [Download retrieve_minified_logs for Linux](https://client-distribution-testnet.concordium.com/retrieve_minified_logs-linux-v1)
+- [Download retrieve_minified_logs for Linux (new version)](https://client-distribution-testnet.concordium.com/retrieve_minified_logs-linux-v2)
 - [Download retrieve_minified_logs for OS X](https://client-distribution-testnet.concordium.com/retrieve_minified_logs-macos-v1)
 - [Download retrieve_minified_logs for Windows](https://client-distribution-testnet.concordium.com/retrieve_minified_logs-windows-v1.exe)
 
