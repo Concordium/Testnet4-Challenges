@@ -1,12 +1,4 @@
-nodeid:<replace this text with the nodeid>
-bakerid:<replace this text with the bakerid>
-accountaddress:<replace this text with the account address>
-blockhash_addbaker:<replace this text with the blockhash of the block with the add baker transaction in it>
-
-nodeid: 2a5877fc248e5b40
-bakerid: 789
-accountaddress: 3vt7CebWQZYp7cXjhJYwLxCKF98C87zrfyAgu7eU3wPf81Sf9Y
-blockhash_addbaker: ec3172cf80b68404b11fc0864c61d82ec489d87803a7aeb74f88c4e827ba5347
+nodeid :  2a5877fc248e5b40
 
 Hello i ran my node starting with 22 January and i had a problem in 4,5 February. After upload new version i ran my node
 normally but in 16th february i had a "CallStack (from HasCallStack): error, called at src/Concordium/GlobalState/Persistent..."
@@ -1056,6 +1048,10 @@ baked:4
   ]
 }
 
+
+
+
+
 I took my last log and commit here. I wish my commit will accaptable.
 
 My Third log (new)
@@ -1509,3 +1505,5 @@ My Third log (new)
 2021-03-06T12:04:03.638178303Z: INFO: Skov: Block 0988506f7820cc8a356e8e4113babd7271075fb1768373c91fb9d691ed2876ec (13) arrived
 runtime:434
 baked:4
+
+
